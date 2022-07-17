@@ -1,0 +1,851 @@
+2022-07-16 22:42:01.374 [INFO] Settings loaded
+2022-07-16 22:48:58.854 [INFO] Settings loaded
+2022-07-16 22:48:58.854 [INFO] Settings loaded
+2022-07-16 22:49:17.519 [INFO] Settings loaded
+2022-07-16 22:49:17.519 [INFO] Settings loaded
+2022-07-16 22:49:17.519 [INFO] Settings loaded
+2022-07-16 22:58:35.714 [INFO] Settings loaded
+2022-07-16 22:58:35.714 [INFO] Settings loaded
+2022-07-16 22:58:35.714 [INFO] Settings loaded
+2022-07-16 22:58:35.714 [INFO] Settings loaded
+2022-07-16 22:58:48.592 [INFO] Begin crawling ...
+2022-07-16 22:58:48.592 [INFO] Begin crawling ...
+2022-07-16 22:58:48.592 [INFO] Begin crawling ...
+2022-07-16 22:58:48.592 [INFO] Begin crawling ...
+2022-07-16 22:59:03.130 [ERROR] Crawl 1 encountered an exception tuple index out of range. This crawl stopped.
+Traceback (most recent call last):
+  File "C:\Users\admin\AppData\Local\Temp\ipykernel_1168\1481194011.py", line 92, in watch
+    board_entries = self.get_board()
+  File "C:\Users\admin\AppData\Local\Temp\ipykernel_1168\1481194011.py", line 269, in get_board
+    raise NotImplementedError
+NotImplementedError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\admin\AppData\Local\Temp\ipykernel_1168\1481194011.py", line 94, in watch
+    if isinstance(e.args[0], requests.Response):
+IndexError: tuple index out of range
+2022-07-16 22:59:03.130 [ERROR] Crawl 1 encountered an exception tuple index out of range. This crawl stopped.
+Traceback (most recent call last):
+  File "C:\Users\admin\AppData\Local\Temp\ipykernel_1168\1481194011.py", line 92, in watch
+    board_entries = self.get_board()
+  File "C:\Users\admin\AppData\Local\Temp\ipykernel_1168\1481194011.py", line 269, in get_board
+    raise NotImplementedError
+NotImplementedError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\admin\AppData\Local\Temp\ipykernel_1168\1481194011.py", line 94, in watch
+    if isinstance(e.args[0], requests.Response):
+IndexError: tuple index out of range
+2022-07-16 22:59:03.130 [ERROR] Crawl 1 encountered an exception tuple index out of range. This crawl stopped.
+Traceback (most recent call last):
+  File "C:\Users\admin\AppData\Local\Temp\ipykernel_1168\1481194011.py", line 92, in watch
+    board_entries = self.get_board()
+  File "C:\Users\admin\AppData\Local\Temp\ipykernel_1168\1481194011.py", line 269, in get_board
+    raise NotImplementedError
+NotImplementedError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\admin\AppData\Local\Temp\ipykernel_1168\1481194011.py", line 94, in watch
+    if isinstance(e.args[0], requests.Response):
+IndexError: tuple index out of range
+2022-07-16 22:59:03.130 [ERROR] Crawl 1 encountered an exception tuple index out of range. This crawl stopped.
+Traceback (most recent call last):
+  File "C:\Users\admin\AppData\Local\Temp\ipykernel_1168\1481194011.py", line 92, in watch
+    board_entries = self.get_board()
+  File "C:\Users\admin\AppData\Local\Temp\ipykernel_1168\1481194011.py", line 269, in get_board
+    raise NotImplementedError
+NotImplementedError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\admin\AppData\Local\Temp\ipykernel_1168\1481194011.py", line 94, in watch
+    if isinstance(e.args[0], requests.Response):
+IndexError: tuple index out of range
+2022-07-16 22:59:03.133 [INFO] Sleep 585.4620802402496 second(s)
+2022-07-16 22:59:03.133 [INFO] Sleep 585.4620802402496 second(s)
+2022-07-16 22:59:03.133 [INFO] Sleep 585.4620802402496 second(s)
+2022-07-16 22:59:03.133 [INFO] Sleep 585.4620802402496 second(s)
+2022-07-17 09:48:48.778 [INFO] Settings loaded
+2022-07-17 09:49:01.273 [INFO] Begin crawling ...
+2022-07-17 09:53:53.119 [INFO] Settings loaded
+2022-07-17 09:54:05.262 [INFO] Begin crawling ...
+2022-07-17 09:54:17.998 [INFO] Get 50 items: 如何看待四川若尔盖缉枪治爆，群众上缴枪支,如何看待运动员苏炳添称「 对不起大家但我,第 63 届国际数学奥赛中国队满分摘金，,为什么会有「去外地旅游，尽量别联系以前的,2021 年出生人口下降 140 万，专,工商银行表示 8 月 15 日起暂停账户,英国宣布进入国家紧急状态并首次发布极端高,成年人能打过扬子鳄吗?,建筑工回家路上倒下因热射病去世，家属称未,手动挡汽车为什么没有了？,美国被曝又宣布 1.08 亿美元对台军售,为什么祁同伟觉得高育良政治手段高明却从不,如何看待李想回应理想 L9 铸铁下摆「装,中国是世界上最重视女足的国家，也是女足起,小布丁大布丁等雪糕蛋白质等项目抽检不合格,放弃吉大，兰大，海大，农大等 985 选,完全跟不上全英文授课的节奏怎么办？,2022 KPL 夏季赛 GK 3:0 ,有什么本地人不怎么吃，外地人却以为是「当,2022 男篮亚洲杯小组赛中国男篮 95,灭绝师太将掌门之位传给周芷若而不是丁敏君,提到避暑，你脑海中出现的第一个地方是哪里,如何解读罗兰贝格发布的《中国跨境航空货运,通胀爆表，加息预期炸了，但为何美股没有大,因为家庭条件，读与不读我该如何选择？,如果给你一个回到过去的机会，你会怎么做？,如何看待小米 12S ultra 好评率,南昌室外核酸采样员不再穿防护服，改穿一次,农村的葬礼有必要搞的那么复杂吗？,我是一名程序员，深夜加班吃了外派公司的零,你有过身高被碾压的经历吗?,准大一新生，到底是住寝室好，还是不住寝室,两个实打实干活的同事离职了，老板连谈都没,为什么《英雄联盟》现在新出的英雄都很少叫,运 -12 拥有 14 个国家的适航证，,如何看待国内首个抗新冠口服药阿兹夫定片提,如何评价网传北京大学 2022 年在内蒙,郑成功是民族英雄，怎么打垮郑成功创立的明,如何看待杨超越说贷款买房好焦虑登上热搜？,如何看待北京时间 7 月 17 日 UF,第一个让你感到真正恐惧的电子游戏是什么？,郑州女子高德平台打车遇车祸身亡，家属质疑,2022 LPL 夏季赛 TES 让一追,为什么说，岳不群一开始就是坏人？,7 月 16 日上海新增本土确诊 2 例,到底是理想重要还是现实重要?,《原神》愚人众十一位执行官全部出动，能干,《新喜剧之王》是真的拍得差，还是被低估了,什么是买断制游戏？,欧盟禁止从俄进口黄金，西方预计俄每年损失
+2022-07-17 09:54:17.998 [INFO] Sleep 2 second(s)
+2022-07-17 09:54:21.368 [ERROR] Crawl 2 encountered an exception 'NoneType' object is not subscriptable. This crawl stopped.
+Traceback (most recent call last):
+  File "zhihu.py", line 125, in watch
+    logger.info(f"Get question detail for {item['title']}: raw detail length {len(detail['raw']) if detail['raw'] else 0}")
+TypeError: 'NoneType' object is not subscriptable
+2022-07-17 09:54:21.490 [INFO] Sleep 583.7719979286194 second(s)
+2022-07-17 09:55:05.482 [INFO] Settings loaded
+2022-07-17 09:55:17.637 [INFO] Begin crawling ...
+2022-07-17 09:55:32.092 [INFO] Get 50 items: 如何看待四川若尔盖缉枪治爆，群众上缴枪支,如何看待运动员苏炳添称「 对不起大家但我,第 63 届国际数学奥赛中国队满分摘金，,为什么会有「去外地旅游，尽量别联系以前的,2021 年出生人口下降 140 万，专,工商银行表示 8 月 15 日起暂停账户,英国宣布进入国家紧急状态并首次发布极端高,成年人能打过扬子鳄吗?,建筑工回家路上倒下因热射病去世，家属称未,手动挡汽车为什么没有了？,美国被曝又宣布 1.08 亿美元对台军售,为什么祁同伟觉得高育良政治手段高明却从不,放弃吉大，兰大，海大，农大等 985 选,如何看待李想回应理想 L9 铸铁下摆「装,小布丁大布丁等雪糕蛋白质等项目抽检不合格,中国是世界上最重视女足的国家，也是女足起,完全跟不上全英文授课的节奏怎么办？,2022 KPL 夏季赛 GK 3:0 ,有什么本地人不怎么吃，外地人却以为是「当,2022 男篮亚洲杯小组赛中国男篮 95,灭绝师太将掌门之位传给周芷若而不是丁敏君,张亮麻辣烫回应「闽南香肉」标注含狗肉，称,提到避暑，你脑海中出现的第一个地方是哪里,如何解读罗兰贝格发布的《中国跨境航空货运,因为家庭条件，读与不读我该如何选择？,如果给你一个回到过去的机会，你会怎么做？,通胀爆表，加息预期炸了，但为何美股没有大,如何看待小米 12S ultra 好评率,南昌室外核酸采样员不再穿防护服，改穿一次,农村的葬礼有必要搞的那么复杂吗？,我是一名程序员，深夜加班吃了外派公司的零,你有过身高被碾压的经历吗?,准大一新生，到底是住寝室好，还是不住寝室,两个实打实干活的同事离职了，老板连谈都没,运 -12 拥有 14 个国家的适航证，,如何看待国内首个抗新冠口服药阿兹夫定片提,为什么《英雄联盟》现在新出的英雄都很少叫,如何评价网传北京大学 2022 年在内蒙,郑成功是民族英雄，怎么打垮郑成功创立的明,如何看待北京时间 7 月 17 日 UF,如何看待杨超越说贷款买房好焦虑登上热搜？,第一个让你感到真正恐惧的电子游戏是什么？,2022 LPL 夏季赛 TES 让一追,郑州女子高德平台打车遇车祸身亡，家属质疑,7 月 16 日上海新增本土确诊 2 例,为什么说，岳不群一开始就是坏人？,到底是理想重要还是现实重要?,《原神》愚人众十一位执行官全部出动，能干,《新喜剧之王》是真的拍得差，还是被低估了,什么是买断制游戏？
+2022-07-17 09:55:32.096 [INFO] Sleep 2 second(s)
+2022-07-17 09:55:34.666 [INFO] Get question detail for 如何看待四川若尔盖缉枪治爆，群众上缴枪支 198 支，手榴弹 10 枚？私藏枪支可能会受到什么处罚？: raw detail length 2780
+2022-07-17 09:55:46.839 [INFO] Sleep 2 second(s)
+2022-07-17 09:55:49.652 [INFO] Get question detail for 如何看待运动员苏炳添称「 对不起大家但我会继续努力 」？运动员比赛表现不理想需要道歉吗？: raw detail length 1158
+2022-07-17 09:56:03.602 [INFO] Sleep 2 second(s)
+2022-07-17 09:56:06.023 [INFO] Get question detail for 第 63 届国际数学奥赛中国队满分摘金，系 28 年来首次，如何评价这支队伍的实力？: raw detail length 498
+2022-07-17 09:56:15.395 [INFO] Sleep 2 second(s)
+2022-07-17 09:56:18.096 [INFO] Get question detail for 为什么会有「去外地旅游，尽量别联系以前的老同学、老朋友」的说法？: raw detail length 0
+2022-07-17 09:56:27.854 [INFO] Sleep 2 second(s)
+2022-07-17 09:56:30.490 [INFO] Get question detail for 2021 年出生人口下降 140 万，专家称「三孩政策」效果还需要一定时间，如何看待这一说法？: raw detail length 1798
+2022-07-17 09:56:39.491 [INFO] Sleep 2 second(s)
+2022-07-17 09:56:42.168 [INFO] Get question detail for 工商银行表示 8 月 15 日起暂停账户黄金、账户白银业务开仓交易，出现这种情况的原因有哪些？: raw detail length 667
+2022-07-17 09:56:56.096 [INFO] Sleep 2 second(s)
+2022-07-17 09:56:58.855 [INFO] Get question detail for 英国宣布进入国家紧急状态并首次发布极端高温红色预警，全球都受到高温影响了吗？: raw detail length 115
+2022-07-17 09:57:07.918 [INFO] Sleep 2 second(s)
+2022-07-17 09:57:10.750 [INFO] Get question detail for 成年人能打过扬子鳄吗?: raw detail length 67
+2022-07-17 09:57:19.720 [INFO] Sleep 2 second(s)
+2022-07-17 09:57:22.572 [INFO] Get question detail for 建筑工回家路上倒下因热射病去世，家属称未签合同无法认定工伤，这种情况如何维权？: raw detail length 538
+2022-07-17 09:57:31.528 [INFO] Sleep 2 second(s)
+2022-07-17 09:57:34.245 [INFO] Get question detail for 手动挡汽车为什么没有了？: raw detail length 70
+2022-07-17 09:57:43.347 [INFO] Sleep 2 second(s)
+2022-07-17 09:57:45.940 [INFO] Get question detail for 美国被曝又宣布 1.08 亿美元对台军售，也是今年第 4 次军售案，如何解读美国此举？: raw detail length 2235
+2022-07-17 09:57:55.132 [INFO] Sleep 2 second(s)
+2022-07-17 09:57:57.687 [INFO] Get question detail for 为什么祁同伟觉得高育良政治手段高明却从不听高育良的？: raw detail length 0
+2022-07-17 09:58:06.945 [INFO] Sleep 2 second(s)
+2022-07-17 09:58:09.442 [INFO] Get question detail for 放弃吉大，兰大，海大，农大等 985 选择北京科技大学，值吗？: raw detail length 211
+2022-07-17 09:58:18.718 [INFO] Sleep 2 second(s)
+2022-07-17 09:58:21.221 [INFO] Get question detail for 如何看待李想回应理想 L9 铸铁下摆「装」铝合金，称「强度和重量比铸造铝更好」？具体情况如何？: raw detail length 1244
+2022-07-17 09:58:30.586 [INFO] Sleep 2 second(s)
+2022-07-17 09:58:33.243 [INFO] Get question detail for 小布丁大布丁等雪糕蛋白质等项目抽检不合格，会对身体带来哪些影响？: raw detail length 576
+2022-07-17 09:58:45.371 [INFO] Sleep 2 second(s)
+2022-07-17 09:58:48.168 [INFO] Get question detail for 中国是世界上最重视女足的国家，也是女足起步最早的国家之一，为什么中国女足成绩很一般？: raw detail length 64
+2022-07-17 09:59:00.658 [INFO] Sleep 2 second(s)
+2022-07-17 09:59:03.425 [INFO] Get question detail for 完全跟不上全英文授课的节奏怎么办？: raw detail length 161
+2022-07-17 09:59:17.434 [INFO] Sleep 2 second(s)
+2022-07-17 09:59:20.179 [INFO] Get question detail for 2022 KPL 夏季赛 GK 3:0 重庆狼队，如何评价这场比赛？: raw detail length 0
+2022-07-17 09:59:32.491 [INFO] Sleep 2 second(s)
+2022-07-17 09:59:35.020 [INFO] Get question detail for 有什么本地人不怎么吃，外地人却以为是「当地特产」的美食？: raw detail length 0
+2022-07-17 09:59:47.168 [INFO] Sleep 2 second(s)
+2022-07-17 09:59:49.907 [INFO] Get question detail for 2022 男篮亚洲杯小组赛中国男篮 95:80 击败中国台北，如何评价本场比赛？: raw detail length 198
+2022-07-17 10:00:02.069 [INFO] Sleep 2 second(s)
+2022-07-17 10:00:04.855 [INFO] Get question detail for 灭绝师太将掌门之位传给周芷若而不是丁敏君的原因是什么？: raw detail length 0
+2022-07-17 10:00:16.986 [INFO] Sleep 2 second(s)
+2022-07-17 10:00:19.584 [INFO] Get question detail for 张亮麻辣烫回应「闽南香肉」标注含狗肉，称肯定不会有狗肉成分，真实情况如何？「闽南香肉」是什么肉？: raw detail length 485
+2022-07-17 10:00:31.690 [INFO] Sleep 2 second(s)
+2022-07-17 10:00:34.352 [INFO] Get question detail for 提到避暑，你脑海中出现的第一个地方是哪里？为什么？: raw detail length 0
+2022-07-17 10:00:46.462 [INFO] Sleep 2 second(s)
+2022-07-17 10:00:49.136 [INFO] Get question detail for 如何解读罗兰贝格发布的《中国跨境航空货运白皮书》？未来航空货运会有怎样的发展前景及趋势？: raw detail length 356
+2022-07-17 10:01:01.283 [INFO] Sleep 2 second(s)
+2022-07-17 10:01:03.790 [INFO] Get question detail for 因为家庭条件，读与不读我该如何选择？: raw detail length 308
+2022-07-17 10:01:15.882 [ERROR] Exception @ 
+INSERT INTO record (`qid`, `crawl_id`, `title`, `heat`, `created`, `visitCount`, `followerCount`, `answerCount`,`excerpt`, `raw`, `ranking`, `hit_at`, `url`)
+VALUES (543591188, 3, '因为家庭条件，读与不读我该如何选择？', NULL, 1657938258, 5789, 54, 50, '在我们队里，就只有我家没有建新房子，只要一下大雨，屋顶上都会漏水，而地面上的水都会渗入大厅里面，每次看到这些，我心里很难受想去打工了，我想赚钱建一栋房子。我的父亲已经 55 岁了，如果我现在还读大专的话，我没有钱读，虽然有助学贷款，但我不想一直借着这些钱，毕业后我第一时间不是存钱而是还钱，我毕业后父亲也快接近 60 了，打工也没人要了。我母亲也做不了工作明天都要吃药。妹妹也快要上初中了还跟着我妈睡，因为没有多余的房间了。对余这些情况我很是难受，我想读书，想获得一个大专学历这样至少能找到好工作，可对家里的这些情况我不知道还读不读，如果去打工的话，没有大专的学历，根本没人要，我看如何选择？我的心里很是压抑。', '<p>在我们队里，就只有我家没有建新房子，只要一下大雨，屋顶上都会漏水，而地面上的水都会渗入大厅里面，每次看到这些，我心里很难受想去打工了，我想赚钱建一栋房子。我的父亲已经55岁了，如果我现在还读大专的话，我没有钱读，虽然有助学贷款，但我不想一直借着这些钱，毕业后我第一时间不是存钱而是还钱，我毕业后父亲也快接近60了，打工也没人要了。我母亲也做不了工作明天都要吃药。妹妹也快要上初中了还跟着我妈睡，因为没有多余的房间了。对余这些情况我很是难受，我想读书，想获得一个大专学历这样至少能找到好工作，可对家里的这些情况我不知道还读不读，如果去打工的话，没有大专的学历，根本没人要，我看如何选择？我的心里很是压抑。</p>', 24, 1658023263.7900925e0, 'https://www.zhihu.com/question/543591188');
+
+2022-07-17 10:01:15.883 [ERROR] Exception when adding entry (1048, "Column 'heat' cannot be null")
+Traceback (most recent call last):
+  File "zhihu.py", line 127, in watch
+    self.add_entry(crawl_id, idx, item, detail)
+  File "zhihu.py", line 213, in add_entry
+    self.query(
+  File "zhihu.py", line 65, in query
+    cur.execute(sql, args)
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\cursors.py", line 148, in execute
+    result = self._query(query)
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\cursors.py", line 310, in _query
+    conn.query(q)
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\connections.py", line 775, in _read_query_result
+    result.read()
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1048, "Column 'heat' cannot be null")
+2022-07-17 10:01:15.907 [INFO] Sleep 2 second(s)
+2022-07-17 10:01:18.671 [INFO] Get question detail for 如果给你一个回到过去的机会，你会怎么做？: raw detail length 0
+2022-07-17 10:01:30.728 [ERROR] Exception @ 
+INSERT INTO record (`qid`, `crawl_id`, `title`, `heat`, `created`, `visitCount`, `followerCount`, `answerCount`,`excerpt`, `raw`, `ranking`, `hit_at`, `url`)
+VALUES (542521801, 3, '如果给你一个回到过去的机会，你会怎么做？', NULL, 1657433505, 3275, 34, 33, NULL, '', 25, 1658023278.67154e0, 'https://www.zhihu.com/question/542521801');
+
+2022-07-17 10:01:30.730 [ERROR] Exception when adding entry (1048, "Column 'heat' cannot be null")
+Traceback (most recent call last):
+  File "zhihu.py", line 127, in watch
+    self.add_entry(crawl_id, idx, item, detail)
+  File "zhihu.py", line 213, in add_entry
+    self.query(
+  File "zhihu.py", line 65, in query
+    cur.execute(sql, args)
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\cursors.py", line 148, in execute
+    result = self._query(query)
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\cursors.py", line 310, in _query
+    conn.query(q)
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\connections.py", line 775, in _read_query_result
+    result.read()
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1048, "Column 'heat' cannot be null")
+2022-07-17 10:01:30.733 [INFO] Sleep 2 second(s)
+2022-07-17 10:01:33.388 [INFO] Get question detail for 通胀爆表，加息预期炸了，但为何美股没有大跌？: raw detail length 422
+2022-07-17 10:01:45.527 [INFO] Sleep 2 second(s)
+2022-07-17 10:01:48.182 [INFO] Get question detail for 如何看待小米 12S ultra 好评率达 98%？: raw detail length 0
+2022-07-17 10:02:00.335 [INFO] Sleep 2 second(s)
+2022-07-17 10:02:03.069 [INFO] Get question detail for 南昌室外核酸采样员不再穿防护服，改穿一次性隔离衣，如何看待这一措施？高温天气该如何保障采样人员的健康？: raw detail length 644
+2022-07-17 10:02:15.197 [INFO] Sleep 2 second(s)
+2022-07-17 10:02:18.099 [INFO] Get question detail for 农村的葬礼有必要搞的那么复杂吗？: raw detail length 91
+2022-07-17 10:02:30.251 [ERROR] Exception @ 
+INSERT INTO record (`qid`, `crawl_id`, `title`, `heat`, `created`, `visitCount`, `followerCount`, `answerCount`,`excerpt`, `raw`, `ranking`, `hit_at`, `url`)
+VALUES (31782620, 3, '农村的葬礼有必要搞的那么复杂吗？', NULL, 1435632428, 4605560, 2552, 1071, '劳民伤财不说，各种各样让人摸不着头脑的仪式还整了一大堆，为什么不能精简一些。哦对了，我是在陕西西安附近。懂得这些仪式得人可以讲讲那些的必要性以及是否可以化繁为简。谢谢。', '<p>劳民伤财不说，各种各样让人摸不着头脑的仪式还整了一大堆，为什么不能精简一些。哦对了，我是在陕西西安附近。懂得这些仪式得人可以讲讲那些的必要性以及是否可以化繁为简。谢谢。</p>', 29, 1658023338.0988915e0, 'https://www.zhihu.com/question/31782620');
+
+2022-07-17 10:02:30.251 [ERROR] Exception when adding entry (1048, "Column 'heat' cannot be null")
+Traceback (most recent call last):
+  File "zhihu.py", line 127, in watch
+    self.add_entry(crawl_id, idx, item, detail)
+  File "zhihu.py", line 213, in add_entry
+    self.query(
+  File "zhihu.py", line 65, in query
+    cur.execute(sql, args)
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\cursors.py", line 148, in execute
+    result = self._query(query)
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\cursors.py", line 310, in _query
+    conn.query(q)
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\connections.py", line 775, in _read_query_result
+    result.read()
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1048, "Column 'heat' cannot be null")
+2022-07-17 10:02:30.298 [INFO] Sleep 2 second(s)
+2022-07-17 10:02:33.050 [INFO] Get question detail for 我是一名程序员，深夜加班吃了外派公司的零食，就被甲方公司员工质问，我到底该不该反驳？: raw detail length 0
+2022-07-17 10:02:45.184 [INFO] Sleep 2 second(s)
+2022-07-17 10:02:47.808 [INFO] Get question detail for 你有过身高被碾压的经历吗?: raw detail length 37
+2022-07-17 10:03:00.030 [INFO] Sleep 2 second(s)
+2022-07-17 10:03:02.589 [INFO] Get question detail for 准大一新生，到底是住寝室好，还是不住寝室好?: raw detail length 64
+2022-07-17 10:03:14.743 [INFO] Sleep 2 second(s)
+2022-07-17 10:03:17.312 [INFO] Get question detail for 两个实打实干活的同事离职了，老板连谈都没谈，一句挽留都没有，你怎么看？: raw detail length 0
+2022-07-17 10:03:29.456 [INFO] Sleep 2 second(s)
+2022-07-17 10:03:32.015 [INFO] Get question detail for 运 -12 拥有 14 个国家的适航证，曾经飞去过南极，还环球一周，你喜欢这架飞机吗？: raw detail length 128
+2022-07-17 10:03:44.381 [INFO] Sleep 2 second(s)
+2022-07-17 10:03:47.039 [INFO] Get question detail for 如何看待国内首个抗新冠口服药阿兹夫定片提交上市申请？这款药物的真实效果如何？: raw detail length 2084
+2022-07-17 10:03:59.197 [INFO] Sleep 2 second(s)
+2022-07-17 10:04:01.705 [INFO] Get question detail for 为什么《英雄联盟》现在新出的英雄都很少叫外号了？: raw detail length 0
+2022-07-17 10:04:15.703 [INFO] Sleep 2 second(s)
+2022-07-17 10:04:18.444 [INFO] Get question detail for 如何评价网传北京大学 2022 年在内蒙古录取分数线为 639 分?: raw detail length 337
+2022-07-17 10:04:30.569 [INFO] Sleep 2 second(s)
+2022-07-17 10:04:33.136 [INFO] Get question detail for 郑成功是民族英雄，怎么打垮郑成功创立的明郑政权的施琅也是民族英雄？: raw detail length 18
+2022-07-17 10:04:45.276 [INFO] Sleep 2 second(s)
+2022-07-17 10:04:48.046 [INFO] Get question detail for 如何看待北京时间 7 月 17 日 UFC 格斗之夜李景亮第二回合 TKO 「散打沙皇」穆斯里穆？: raw detail length 440
+2022-07-17 10:05:00.183 [INFO] Sleep 2 second(s)
+2022-07-17 10:05:02.856 [INFO] Get question detail for 如何看待杨超越说贷款买房好焦虑登上热搜？: raw detail length 888
+2022-07-17 10:05:15.001 [INFO] Sleep 2 second(s)
+2022-07-17 10:05:17.813 [INFO] Get question detail for 第一个让你感到真正恐惧的电子游戏是什么？为什么？: raw detail length 0
+2022-07-17 10:05:30.081 [INFO] Sleep 2 second(s)
+2022-07-17 10:05:32.729 [INFO] Get question detail for 2022 LPL 夏季赛 TES 让一追二击败 EDG，如何评价这场比赛？: raw detail length 0
+2022-07-17 10:05:44.931 [INFO] Sleep 2 second(s)
+2022-07-17 10:05:47.506 [INFO] Get question detail for 郑州女子高德平台打车遇车祸身亡，家属质疑当事网约车无运营资质，哪一方该为此负责？家属的质疑有法可依吗？: raw detail length 805
+2022-07-17 10:05:59.639 [INFO] Sleep 2 second(s)
+2022-07-17 10:06:02.736 [INFO] Get question detail for 7 月 16 日上海新增本土确诊 2 例、本土无症状 24 例，目前当地疫情情况如何？: raw detail length 1804
+2022-07-17 10:06:14.878 [INFO] Sleep 2 second(s)
+2022-07-17 10:06:17.396 [INFO] Get question detail for 为什么说，岳不群一开始就是坏人？: raw detail length 92
+2022-07-17 10:06:29.721 [ERROR] Exception @ 
+INSERT INTO record (`qid`, `crawl_id`, `title`, `heat`, `created`, `visitCount`, `followerCount`, `answerCount`,`excerpt`, `raw`, `ranking`, `hit_at`, `url`)
+VALUES (532509815, 3, '为什么说，岳不群一开始就是坏人？', NULL, 1652353287, 132415, 51, 32, '岳不群并不是后来变坏的。他在小说一开始的时候，就已经是坏人。试想一下，他为何叫自己的女儿千里迢迢到福州扮卖酒女？华山离福州远着呢。他之所以这么做，还不是因为想要辟邪剑谱？', '<p>岳不群并不是后来变坏的。他在小说一开始的时候，就已经是坏人。试想一下，他为何叫自己的女儿千里迢迢到福州扮卖酒女？华山离福州远着呢。他之所以这么做，还不是因为想要辟邪剑谱？</p>', 45, 1658023577.396531e0, 'https://www.zhihu.com/question/532509815');
+
+2022-07-17 10:06:29.723 [ERROR] Exception when adding entry (1048, "Column 'heat' cannot be null")
+Traceback (most recent call last):
+  File "zhihu.py", line 127, in watch
+    self.add_entry(crawl_id, idx, item, detail)
+  File "zhihu.py", line 213, in add_entry
+    self.query(
+  File "zhihu.py", line 65, in query
+    cur.execute(sql, args)
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\cursors.py", line 148, in execute
+    result = self._query(query)
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\cursors.py", line 310, in _query
+    conn.query(q)
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\connections.py", line 775, in _read_query_result
+    result.read()
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1048, "Column 'heat' cannot be null")
+2022-07-17 10:06:29.731 [INFO] Sleep 2 second(s)
+2022-07-17 10:06:33.029 [INFO] Get question detail for 到底是理想重要还是现实重要?: raw detail length 159
+2022-07-17 10:06:45.203 [INFO] Sleep 2 second(s)
+2022-07-17 10:06:47.959 [INFO] Get question detail for 《原神》愚人众十一位执行官全部出动，能干掉一个七神吗？: raw detail length 3468
+2022-07-17 10:07:00.111 [INFO] Sleep 2 second(s)
+2022-07-17 10:07:02.703 [INFO] Get question detail for 《新喜剧之王》是真的拍得差，还是被低估了？: raw detail length 0
+2022-07-17 10:07:14.818 [INFO] Sleep 2 second(s)
+2022-07-17 10:07:17.402 [INFO] Get question detail for 什么是买断制游戏？: raw detail length 23
+2022-07-17 10:07:45.293 [INFO] Sleep -147.6550416946411 second(s)
+2022-07-17 10:17:16.693 [INFO] Settings loaded
+2022-07-17 10:17:30.684 [INFO] Begin crawling ...
+2022-07-17 10:17:43.066 [INFO] Get 50 items: 如何看待四川若尔盖缉枪治爆，群众上缴枪支,如何看待运动员苏炳添称「 对不起大家但我,第 63 届国际数学奥赛中国队满分摘金，,工商银行表示 8 月 15 日起暂停账户,为什么会有「去外地旅游，尽量别联系以前的,英国宣布进入国家紧急状态并首次发布极端高,建筑工回家路上倒下因热射病去世，家属称未,2021 年出生人口下降 140 万，专,成年人能打过扬子鳄吗?,手动挡汽车为什么没有了？,美国被曝又宣布 1.08 亿美元对台军售,为什么祁同伟觉得高育良政治手段高明却从不,如何看待李想回应理想 L9 铸铁下摆「装,放弃吉大，兰大，海大，农大等 985 选,小布丁大布丁等雪糕蛋白质等项目抽检不合格,2022 KPL 夏季赛 GK 3:0 ,中国是世界上最重视女足的国家，也是女足起,灭绝师太将掌门之位传给周芷若而不是丁敏君,有什么本地人不怎么吃，外地人却以为是「当,2022 男篮亚洲杯小组赛中国男篮 95,张亮麻辣烫回应「闽南香肉」标注含狗肉，称,提到避暑，你脑海中出现的第一个地方是哪里,如何解读罗兰贝格发布的《中国跨境航空货运,因为家庭条件，读与不读我该如何选择？,如果给你一个回到过去的机会，你会怎么做？,大一新生带两个行李箱会很奇怪吗？,通胀爆表，加息预期炸了，但为何美股没有大,如何看待小米 12S ultra 好评率,完全跟不上全英文授课的节奏怎么办？,我是一名程序员，深夜加班吃了外派公司的零,农村的葬礼有必要搞的那么复杂吗？,你有过身高被碾压的经历吗?,南昌室外核酸采样员不再穿防护服，改穿一次,两个实打实干活的同事离职了，老板连谈都没,运 -12 拥有 14 个国家的适航证，,如何看待国内首个抗新冠口服药阿兹夫定片提,准大一新生，到底是住寝室好，还是不住寝室,为什么《英雄联盟》现在新出的英雄都很少叫,如何评价网传北京大学 2022 年在内蒙,2022 世界田径锦标赛男子 100 米,如何看待北京时间 7 月 17 日 UF,如何看待杨超越说贷款买房好焦虑登上热搜？,第一个让你感到真正恐惧的电子游戏是什么？,当你落魄的从原单位出来，通过努力你成为了,7 月 16 日上海新增本土确诊 2 例,什么是买断制游戏？,欧盟禁止从俄进口黄金，西方预计俄每年损失,为什么收入越多，却感觉越来越穷？,新手如何系统性地学习摄影？,你知道哪些行业内公开的秘密？
+2022-07-17 10:17:43.067 [INFO] Sleep 2 second(s)
+2022-07-17 10:17:45.583 [INFO] Get question detail for 如何看待四川若尔盖缉枪治爆，群众上缴枪支 198 支，手榴弹 10 枚？私藏枪支可能会受到什么处罚？: raw detail length 2780
+2022-07-17 10:17:54.653 [INFO] Sleep 2 second(s)
+2022-07-17 10:17:57.372 [INFO] Get question detail for 如何看待运动员苏炳添称「 对不起大家但我会继续努力 」？运动员比赛表现不理想需要道歉吗？: raw detail length 1158
+2022-07-17 10:18:06.427 [INFO] Sleep 2 second(s)
+2022-07-17 10:18:08.963 [INFO] Get question detail for 第 63 届国际数学奥赛中国队满分摘金，系 28 年来首次，如何评价这支队伍的实力？: raw detail length 498
+2022-07-17 10:18:18.202 [INFO] Sleep 2 second(s)
+2022-07-17 10:18:21.112 [INFO] Get question detail for 工商银行表示 8 月 15 日起暂停账户黄金、账户白银业务开仓交易，出现这种情况的原因有哪些？: raw detail length 667
+2022-07-17 10:18:30.089 [INFO] Sleep 2 second(s)
+2022-07-17 10:18:32.814 [INFO] Get question detail for 为什么会有「去外地旅游，尽量别联系以前的老同学、老朋友」的说法？: raw detail length 0
+2022-07-17 10:18:41.911 [INFO] Sleep 2 second(s)
+2022-07-17 10:18:44.508 [INFO] Get question detail for 英国宣布进入国家紧急状态并首次发布极端高温红色预警，全球都受到高温影响了吗？: raw detail length 115
+2022-07-17 10:18:53.660 [INFO] Sleep 2 second(s)
+2022-07-17 10:18:56.301 [INFO] Get question detail for 建筑工回家路上倒下因热射病去世，家属称未签合同无法认定工伤，这种情况如何维权？: raw detail length 538
+2022-07-17 10:19:05.462 [INFO] Sleep 2 second(s)
+2022-07-17 10:19:08.048 [INFO] Get question detail for 2021 年出生人口下降 140 万，专家称「三孩政策」效果还需要一定时间，如何看待这一说法？: raw detail length 1798
+2022-07-17 10:19:17.416 [INFO] Sleep 2 second(s)
+2022-07-17 10:19:20.169 [INFO] Get question detail for 成年人能打过扬子鳄吗?: raw detail length 67
+2022-07-17 10:19:29.142 [INFO] Sleep 2 second(s)
+2022-07-17 10:19:36.438 [INFO] Get question detail for 手动挡汽车为什么没有了？: raw detail length 70
+2022-07-17 10:19:48.592 [INFO] Sleep 2 second(s)
+2022-07-17 10:19:51.154 [INFO] Get question detail for 美国被曝又宣布 1.08 亿美元对台军售，也是今年第 4 次军售案，如何解读美国此举？: raw detail length 2235
+2022-07-17 10:20:03.310 [INFO] Sleep 2 second(s)
+2022-07-17 10:20:05.806 [INFO] Get question detail for 为什么祁同伟觉得高育良政治手段高明却从不听高育良的？: raw detail length 0
+2022-07-17 10:20:18.033 [INFO] Sleep 2 second(s)
+2022-07-17 10:20:20.616 [INFO] Get question detail for 如何看待李想回应理想 L9 铸铁下摆「装」铝合金，称「强度和重量比铸造铝更好」？具体情况如何？: raw detail length 1244
+2022-07-17 10:20:32.768 [INFO] Sleep 2 second(s)
+2022-07-17 10:20:35.286 [INFO] Get question detail for 放弃吉大，兰大，海大，农大等 985 选择北京科技大学，值吗？: raw detail length 211
+2022-07-17 10:20:47.419 [INFO] Sleep 2 second(s)
+2022-07-17 10:20:49.968 [INFO] Get question detail for 小布丁大布丁等雪糕蛋白质等项目抽检不合格，会对身体带来哪些影响？: raw detail length 576
+2022-07-17 10:21:04.041 [INFO] Sleep 2 second(s)
+2022-07-17 10:21:06.596 [INFO] Get question detail for 2022 KPL 夏季赛 GK 3:0 重庆狼队，如何评价这场比赛？: raw detail length 0
+2022-07-17 10:21:18.715 [INFO] Sleep 2 second(s)
+2022-07-17 10:21:21.239 [INFO] Get question detail for 中国是世界上最重视女足的国家，也是女足起步最早的国家之一，为什么中国女足成绩很一般？: raw detail length 64
+2022-07-17 10:21:33.397 [INFO] Sleep 2 second(s)
+2022-07-17 10:21:36.044 [INFO] Get question detail for 灭绝师太将掌门之位传给周芷若而不是丁敏君的原因是什么？: raw detail length 0
+2022-07-17 10:21:50.010 [INFO] Sleep 2 second(s)
+2022-07-17 10:21:52.605 [INFO] Get question detail for 有什么本地人不怎么吃，外地人却以为是「当地特产」的美食？: raw detail length 0
+2022-07-17 10:22:04.735 [INFO] Sleep 2 second(s)
+2022-07-17 10:22:07.485 [INFO] Get question detail for 2022 男篮亚洲杯小组赛中国男篮 95:80 击败中国台北，如何评价本场比赛？: raw detail length 198
+2022-07-17 10:22:19.652 [INFO] Sleep 2 second(s)
+2022-07-17 10:22:22.428 [INFO] Get question detail for 张亮麻辣烫回应「闽南香肉」标注含狗肉，称肯定不会有狗肉成分，真实情况如何？「闽南香肉」是什么肉？: raw detail length 485
+2022-07-17 10:22:34.587 [INFO] Sleep 2 second(s)
+2022-07-17 10:22:37.150 [INFO] Get question detail for 提到避暑，你脑海中出现的第一个地方是哪里？为什么？: raw detail length 0
+2022-07-17 10:22:49.266 [INFO] Sleep 2 second(s)
+2022-07-17 10:22:51.902 [INFO] Get question detail for 如何解读罗兰贝格发布的《中国跨境航空货运白皮书》？未来航空货运会有怎样的发展前景及趋势？: raw detail length 356
+2022-07-17 10:23:04.018 [INFO] Sleep 2 second(s)
+2022-07-17 10:23:06.553 [INFO] Get question detail for 因为家庭条件，读与不读我该如何选择？: raw detail length 308
+2022-07-17 10:23:18.834 [INFO] Sleep 2 second(s)
+2022-07-17 10:23:21.441 [INFO] Get question detail for 如果给你一个回到过去的机会，你会怎么做？: raw detail length 0
+2022-07-17 10:23:35.435 [INFO] Sleep 2 second(s)
+2022-07-17 10:23:38.700 [INFO] Get question detail for 大一新生带两个行李箱会很奇怪吗？: raw detail length 83
+2022-07-17 10:23:50.842 [INFO] Sleep 2 second(s)
+2022-07-17 10:23:53.550 [INFO] Get question detail for 通胀爆表，加息预期炸了，但为何美股没有大跌？: raw detail length 422
+2022-07-17 10:24:05.683 [INFO] Sleep 2 second(s)
+2022-07-17 10:24:08.571 [INFO] Get question detail for 如何看待小米 12S ultra 好评率达 98%？: raw detail length 0
+2022-07-17 10:24:20.746 [INFO] Sleep 2 second(s)
+2022-07-17 10:24:23.418 [INFO] Get question detail for 完全跟不上全英文授课的节奏怎么办？: raw detail length 161
+2022-07-17 10:24:35.540 [INFO] Sleep 2 second(s)
+2022-07-17 10:24:38.159 [INFO] Get question detail for 我是一名程序员，深夜加班吃了外派公司的零食，就被甲方公司员工质问，我到底该不该反驳？: raw detail length 0
+2022-07-17 10:24:52.123 [INFO] Sleep 2 second(s)
+2022-07-17 10:24:54.720 [INFO] Get question detail for 农村的葬礼有必要搞的那么复杂吗？: raw detail length 91
+2022-07-17 10:25:06.867 [INFO] Sleep 2 second(s)
+2022-07-17 10:25:09.493 [INFO] Get question detail for 你有过身高被碾压的经历吗?: raw detail length 37
+2022-07-17 10:25:21.621 [INFO] Sleep 2 second(s)
+2022-07-17 10:25:24.192 [INFO] Get question detail for 南昌室外核酸采样员不再穿防护服，改穿一次性隔离衣，如何看待这一措施？高温天气该如何保障采样人员的健康？: raw detail length 644
+2022-07-17 10:25:36.347 [INFO] Sleep 2 second(s)
+2022-07-17 10:25:38.897 [INFO] Get question detail for 两个实打实干活的同事离职了，老板连谈都没谈，一句挽留都没有，你怎么看？: raw detail length 0
+2022-07-17 10:25:51.062 [INFO] Sleep 2 second(s)
+2022-07-17 10:25:53.913 [INFO] Get question detail for 运 -12 拥有 14 个国家的适航证，曾经飞去过南极，还环球一周，你喜欢这架飞机吗？: raw detail length 128
+2022-07-17 10:26:06.038 [INFO] Sleep 2 second(s)
+2022-07-17 10:26:08.795 [INFO] Get question detail for 如何看待国内首个抗新冠口服药阿兹夫定片提交上市申请？这款药物的真实效果如何？: raw detail length 2084
+2022-07-17 10:26:20.934 [INFO] Sleep 2 second(s)
+2022-07-17 10:26:23.412 [INFO] Get question detail for 准大一新生，到底是住寝室好，还是不住寝室好?: raw detail length 64
+2022-07-17 10:26:35.649 [INFO] Sleep 2 second(s)
+2022-07-17 10:26:38.647 [INFO] Get question detail for 为什么《英雄联盟》现在新出的英雄都很少叫外号了？: raw detail length 0
+2022-07-17 10:26:50.784 [INFO] Sleep 2 second(s)
+2022-07-17 10:26:53.625 [INFO] Get question detail for 如何评价网传北京大学 2022 年在内蒙古录取分数线为 639 分?: raw detail length 337
+2022-07-17 10:27:05.765 [INFO] Sleep 2 second(s)
+2022-07-17 10:27:08.349 [INFO] Get question detail for 2022 世界田径锦标赛男子 100 米半决赛苏炳添跑出 10 秒 30 无缘决赛，如何评价他的表现？: raw detail length 698
+2022-07-17 10:27:20.464 [INFO] Sleep 2 second(s)
+2022-07-17 10:27:23.060 [INFO] Get question detail for 如何看待北京时间 7 月 17 日 UFC 格斗之夜李景亮第二回合 TKO 「散打沙皇」穆斯里穆？: raw detail length 440
+2022-07-17 10:27:35.269 [INFO] Sleep 2 second(s)
+2022-07-17 10:27:38.016 [INFO] Get question detail for 如何看待杨超越说贷款买房好焦虑登上热搜？: raw detail length 888
+2022-07-17 10:27:50.136 [INFO] Sleep 2 second(s)
+2022-07-17 10:27:52.885 [INFO] Get question detail for 第一个让你感到真正恐惧的电子游戏是什么？为什么？: raw detail length 0
+2022-07-17 10:28:04.990 [INFO] Sleep 2 second(s)
+2022-07-17 10:28:07.614 [INFO] Get question detail for 当你落魄的从原单位出来，通过努力你成为了原单位领导的上级领导，你会是什么心情？: raw detail length 0
+2022-07-17 10:28:19.750 [INFO] Sleep 2 second(s)
+2022-07-17 10:28:22.291 [INFO] Get question detail for 7 月 16 日上海新增本土确诊 2 例、本土无症状 24 例，目前当地疫情情况如何？: raw detail length 1804
+2022-07-17 10:28:34.466 [INFO] Sleep 2 second(s)
+2022-07-17 10:28:37.027 [INFO] Get question detail for 什么是买断制游戏？: raw detail length 23
+2022-07-17 10:28:49.150 [INFO] Sleep 2 second(s)
+2022-07-17 10:28:51.886 [INFO] Get question detail for 欧盟禁止从俄进口黄金，西方预计俄每年损失逾百亿美元，将产生哪些影响？: raw detail length 606
+2022-07-17 10:29:05.841 [INFO] Sleep 2 second(s)
+2022-07-17 10:29:09.089 [INFO] Get question detail for 为什么收入越多，却感觉越来越穷？: raw detail length 0
+2022-07-17 10:29:18.187 [INFO] Sleep 2 second(s)
+2022-07-17 10:29:21.101 [INFO] Get question detail for 新手如何系统性地学习摄影？: raw detail length 29
+2022-07-17 10:29:30.068 [INFO] Sleep 2 second(s)
+2022-07-17 10:29:32.723 [INFO] Get question detail for 你知道哪些行业内公开的秘密？: raw detail length 66
+2022-07-17 10:29:53.622 [INFO] Sleep 1342.9373428821564 second(s)
+2022-07-17 10:37:07.904 [INFO] Settings loaded
+2022-07-17 10:37:21.883 [INFO] Begin crawling ...
+2022-07-17 10:37:34.590 [INFO] Get 50 items: 如何看待四川若尔盖缉枪治爆，群众上缴枪支,如何看待运动员苏炳添称「 对不起大家但我,工商银行表示 8 月 15 日起暂停账户,第 63 届国际数学奥赛中国队满分摘金，,为什么会有「去外地旅游，尽量别联系以前的,建筑工回家路上倒下因热射病去世，家属称未,成年人能打过扬子鳄吗?,2021 年出生人口下降 140 万，专,手动挡汽车为什么没有了？,如何看待易烊千玺发文宣布放弃入职国家话剧,美国被曝又宣布 1.08 亿美元对台军售,英国宣布进入国家紧急状态并首次发布极端高,为什么祁同伟觉得高育良政治手段高明却从不,放弃吉大，兰大，海大，农大等 985 选,小布丁大布丁等雪糕蛋白质等项目抽检不合格,如何看待李想回应理想 L9 铸铁下摆「装,2022 KPL 夏季赛 GK 3:0 ,张亮麻辣烫回应「闽南香肉」标注含狗肉，称,灭绝师太将掌门之位传给周芷若而不是丁敏君,2022 男篮亚洲杯小组赛中国男篮 95,有什么本地人不怎么吃，外地人却以为是「当,提到避暑，你脑海中出现的第一个地方是哪里,如何解读罗兰贝格发布的《中国跨境航空货运,如果给你一个回到过去的机会，你会怎么做？,中国是世界上最重视女足的国家，也是女足起,因为家庭条件，读与不读我该如何选择？,我感觉我的学业跟不上了，我想放弃又不想放,大一新生带两个行李箱会很奇怪吗？,如何看待小米 12S ultra 好评率,通胀爆表，加息预期炸了，但为何美股没有大,我是一名程序员，深夜加班吃了外派公司的零,农村的葬礼有必要搞的那么复杂吗？,完全跟不上全英文授课的节奏怎么办？,两个实打实干活的同事离职了，老板连谈都没,运 -12 拥有 14 个国家的适航证，,如何看待国内首个抗新冠口服药阿兹夫定片提,你有过身高被碾压的经历吗?,南昌室外核酸采样员不再穿防护服，改穿一次,准大一新生，到底是住寝室好，还是不住寝室,2022 世界田径锦标赛男子 100 米,如何看待北京时间 7 月 17 日 UF,为什么《英雄联盟》现在新出的英雄都很少叫,如何评价网传北京大学 2022 年在内蒙,如何看待杨超越说贷款买房好焦虑登上热搜？,7 月 16 日上海新增本土确诊 2 例,为什么成都老是说西贵？,你上次哭是什么时候.？,为什么成都人买房那么喜欢湖边？,你能想到最弱的超能力是什么？,假如你是名居住在世外的神明，你可以给自己
+2022-07-17 10:37:34.590 [INFO] Sleep 2 second(s)
+2022-07-17 10:37:37.268 [INFO] Get question detail for 如何看待四川若尔盖缉枪治爆，群众上缴枪支 198 支，手榴弹 10 枚？私藏枪支可能会受到什么处罚？: raw detail length 2780
+2022-07-17 10:37:49.459 [INFO] Sleep 2 second(s)
+2022-07-17 10:37:52.391 [INFO] Get question detail for 如何看待运动员苏炳添称「 对不起大家但我会继续努力 」？运动员比赛表现不理想需要道歉吗？: raw detail length 1158
+2022-07-17 10:38:04.596 [INFO] Sleep 2 second(s)
+2022-07-17 10:38:07.250 [INFO] Get question detail for 工商银行表示 8 月 15 日起暂停账户黄金、账户白银业务开仓交易，出现这种情况的原因有哪些？: raw detail length 667
+2022-07-17 10:38:19.401 [INFO] Sleep 2 second(s)
+2022-07-17 10:38:22.063 [INFO] Get question detail for 第 63 届国际数学奥赛中国队满分摘金，系 28 年来首次，如何评价这支队伍的实力？: raw detail length 498
+2022-07-17 10:38:34.211 [INFO] Sleep 2 second(s)
+2022-07-17 10:38:36.769 [INFO] Get question detail for 为什么会有「去外地旅游，尽量别联系以前的老同学、老朋友」的说法？: raw detail length 0
+2022-07-17 10:38:48.931 [INFO] Sleep 2 second(s)
+2022-07-17 10:38:51.813 [INFO] Get question detail for 建筑工回家路上倒下因热射病去世，家属称未签合同无法认定工伤，这种情况如何维权？: raw detail length 538
+2022-07-17 10:39:00.504 [INFO] Sleep 2 second(s)
+2022-07-17 10:39:03.183 [INFO] Get question detail for 成年人能打过扬子鳄吗?: raw detail length 67
+2022-07-17 10:39:12.248 [INFO] Sleep 2 second(s)
+2022-07-17 10:39:14.938 [INFO] Get question detail for 2021 年出生人口下降 140 万，专家称「三孩政策」效果还需要一定时间，如何看待这一说法？: raw detail length 1798
+2022-07-17 10:39:24.054 [INFO] Sleep 2 second(s)
+2022-07-17 10:39:26.563 [INFO] Get question detail for 手动挡汽车为什么没有了？: raw detail length 70
+2022-07-17 10:39:38.699 [INFO] Sleep 2 second(s)
+2022-07-17 10:39:41.180 [INFO] Get question detail for 如何看待易烊千玺发文宣布放弃入职国家话剧院？此次事件对其演艺事业造成哪些影响？: raw detail length 1393
+2022-07-17 10:39:53.378 [INFO] Sleep 2 second(s)
+2022-07-17 10:39:55.939 [INFO] Get question detail for 美国被曝又宣布 1.08 亿美元对台军售，也是今年第 4 次军售案，如何解读美国此举？: raw detail length 2235
+2022-07-17 10:40:08.115 [INFO] Sleep 2 second(s)
+2022-07-17 10:40:10.734 [INFO] Get question detail for 英国宣布进入国家紧急状态并首次发布极端高温红色预警，全球都受到高温影响了吗？: raw detail length 115
+2022-07-17 10:40:22.937 [INFO] Sleep 2 second(s)
+2022-07-17 10:40:25.557 [INFO] Get question detail for 为什么祁同伟觉得高育良政治手段高明却从不听高育良的？: raw detail length 0
+2022-07-17 10:40:37.880 [INFO] Sleep 2 second(s)
+2022-07-17 10:40:40.649 [INFO] Get question detail for 放弃吉大，兰大，海大，农大等 985 选择北京科技大学，值吗？: raw detail length 211
+2022-07-17 10:40:52.796 [INFO] Sleep 2 second(s)
+2022-07-17 10:40:55.322 [INFO] Get question detail for 小布丁大布丁等雪糕蛋白质等项目抽检不合格，会对身体带来哪些影响？: raw detail length 576
+2022-07-17 10:41:08.547 [INFO] Sleep 2 second(s)
+2022-07-17 10:41:11.142 [INFO] Get question detail for 如何看待李想回应理想 L9 铸铁下摆「装」铝合金，称「强度和重量比铸造铝更好」？具体情况如何？: raw detail length 1244
+2022-07-17 10:41:23.780 [INFO] Sleep 2 second(s)
+2022-07-17 10:41:26.444 [INFO] Get question detail for 2022 KPL 夏季赛 GK 3:0 重庆狼队，如何评价这场比赛？: raw detail length 0
+2022-07-17 10:41:35.449 [INFO] Sleep 2 second(s)
+2022-07-17 10:41:38.160 [INFO] Get question detail for 张亮麻辣烫回应「闽南香肉」标注含狗肉，称肯定不会有狗肉成分，真实情况如何？「闽南香肉」是什么肉？: raw detail length 485
+2022-07-17 10:41:47.252 [INFO] Sleep 2 second(s)
+2022-07-17 10:41:50.051 [INFO] Get question detail for 灭绝师太将掌门之位传给周芷若而不是丁敏君的原因是什么？: raw detail length 0
+2022-07-17 10:41:59.030 [INFO] Sleep 2 second(s)
+2022-07-17 10:42:01.532 [INFO] Get question detail for 2022 男篮亚洲杯小组赛中国男篮 95:80 击败中国台北，如何评价本场比赛？: raw detail length 198
+2022-07-17 10:42:10.867 [INFO] Sleep 2 second(s)
+2022-07-17 10:42:13.434 [INFO] Get question detail for 有什么本地人不怎么吃，外地人却以为是「当地特产」的美食？: raw detail length 0
+2022-07-17 10:42:22.680 [INFO] Sleep 2 second(s)
+2022-07-17 10:42:25.180 [INFO] Get question detail for 提到避暑，你脑海中出现的第一个地方是哪里？为什么？: raw detail length 0
+2022-07-17 10:42:34.439 [INFO] Sleep 2 second(s)
+2022-07-17 10:42:37.134 [INFO] Get question detail for 如何解读罗兰贝格发布的《中国跨境航空货运白皮书》？未来航空货运会有怎样的发展前景及趋势？: raw detail length 356
+2022-07-17 10:42:46.219 [INFO] Sleep 2 second(s)
+2022-07-17 10:42:48.792 [INFO] Get question detail for 如果给你一个回到过去的机会，你会怎么做？: raw detail length 0
+2022-07-17 10:42:58.043 [INFO] Sleep 2 second(s)
+2022-07-17 10:43:00.753 [INFO] Get question detail for 中国是世界上最重视女足的国家，也是女足起步最早的国家之一，为什么中国女足成绩很一般？: raw detail length 64
+2022-07-17 10:43:09.853 [INFO] Sleep 2 second(s)
+2022-07-17 10:43:12.471 [INFO] Get question detail for 因为家庭条件，读与不读我该如何选择？: raw detail length 308
+2022-07-17 10:43:21.615 [INFO] Sleep 2 second(s)
+2022-07-17 10:43:24.114 [INFO] Get question detail for 我感觉我的学业跟不上了，我想放弃又不想放弃，我该怎么办，我还有希望吗？: raw detail length 0
+2022-07-17 10:43:33.415 [INFO] Sleep 2 second(s)
+2022-07-17 10:43:36.217 [INFO] Get question detail for 大一新生带两个行李箱会很奇怪吗？: raw detail length 83
+2022-07-17 10:43:45.345 [INFO] Sleep 2 second(s)
+2022-07-17 10:43:48.155 [INFO] Get question detail for 如何看待小米 12S ultra 好评率达 98%？: raw detail length 0
+2022-07-17 10:43:57.101 [INFO] Sleep 2 second(s)
+2022-07-17 10:43:59.654 [INFO] Get question detail for 通胀爆表，加息预期炸了，但为何美股没有大跌？: raw detail length 422
+2022-07-17 10:44:08.923 [INFO] Sleep 2 second(s)
+2022-07-17 10:44:11.625 [INFO] Get question detail for 我是一名程序员，深夜加班吃了外派公司的零食，就被甲方公司员工质问，我到底该不该反驳？: raw detail length 0
+2022-07-17 10:44:20.671 [INFO] Sleep 2 second(s)
+2022-07-17 10:44:23.498 [INFO] Get question detail for 农村的葬礼有必要搞的那么复杂吗？: raw detail length 91
+2022-07-17 10:44:32.467 [INFO] Sleep 2 second(s)
+2022-07-17 10:44:35.354 [INFO] Get question detail for 完全跟不上全英文授课的节奏怎么办？: raw detail length 161
+2022-07-17 10:44:44.294 [INFO] Sleep 2 second(s)
+2022-07-17 10:44:47.205 [INFO] Get question detail for 两个实打实干活的同事离职了，老板连谈都没谈，一句挽留都没有，你怎么看？: raw detail length 0
+2022-07-17 10:44:59.996 [INFO] Sleep 2 second(s)
+2022-07-17 10:45:02.779 [INFO] Get question detail for 运 -12 拥有 14 个国家的适航证，曾经飞去过南极，还环球一周，你喜欢这架飞机吗？: raw detail length 128
+2022-07-17 10:45:11.712 [INFO] Sleep 2 second(s)
+2022-07-17 10:45:14.435 [INFO] Get question detail for 如何看待国内首个抗新冠口服药阿兹夫定片提交上市申请？这款药物的真实效果如何？: raw detail length 2084
+2022-07-17 10:45:28.178 [INFO] Sleep 2 second(s)
+2022-07-17 10:45:34.253 [INFO] Get question detail for 你有过身高被碾压的经历吗?: raw detail length 37
+2022-07-17 10:45:46.602 [INFO] Sleep 2 second(s)
+2022-07-17 10:45:50.327 [INFO] Get question detail for 南昌室外核酸采样员不再穿防护服，改穿一次性隔离衣，如何看待这一措施？高温天气该如何保障采样人员的健康？: raw detail length 644
+2022-07-17 10:46:02.676 [INFO] Sleep 2 second(s)
+2022-07-17 10:46:06.024 [INFO] Get question detail for 准大一新生，到底是住寝室好，还是不住寝室好?: raw detail length 64
+2022-07-17 10:46:20.023 [INFO] Sleep 2 second(s)
+2022-07-17 10:46:23.115 [INFO] Get question detail for 2022 世界田径锦标赛男子 100 米半决赛苏炳添跑出 10 秒 30 无缘决赛，如何评价他的表现？: raw detail length 698
+2022-07-17 10:46:35.397 [INFO] Sleep 2 second(s)
+2022-07-17 10:46:38.497 [INFO] Get question detail for 如何看待北京时间 7 月 17 日 UFC 格斗之夜李景亮第二回合 TKO 「散打沙皇」穆斯里穆？: raw detail length 440
+2022-07-17 10:46:50.687 [INFO] Sleep 2 second(s)
+2022-07-17 10:46:53.296 [INFO] Get question detail for 为什么《英雄联盟》现在新出的英雄都很少叫外号了？: raw detail length 0
+2022-07-17 10:47:05.665 [INFO] Sleep 2 second(s)
+2022-07-17 10:47:08.748 [INFO] Get question detail for 如何评价网传北京大学 2022 年在内蒙古录取分数线为 639 分?: raw detail length 337
+2022-07-17 10:47:20.956 [INFO] Sleep 2 second(s)
+2022-07-17 10:47:24.014 [INFO] Get question detail for 如何看待杨超越说贷款买房好焦虑登上热搜？: raw detail length 888
+2022-07-17 10:47:36.524 [INFO] Sleep 2 second(s)
+2022-07-17 10:47:39.344 [INFO] Get question detail for 7 月 16 日上海新增本土确诊 2 例、本土无症状 24 例，目前当地疫情情况如何？: raw detail length 1804
+2022-07-17 10:47:51.653 [INFO] Sleep 2 second(s)
+2022-07-17 10:47:54.569 [INFO] Get question detail for 为什么成都老是说西贵？: raw detail length 132
+2022-07-17 10:48:07.060 [INFO] Sleep 2 second(s)
+2022-07-17 10:48:09.943 [INFO] Get question detail for 你上次哭是什么时候.？: raw detail length 0
+2022-07-17 10:48:22.226 [INFO] Sleep 2 second(s)
+2022-07-17 10:48:26.243 [INFO] Get question detail for 为什么成都人买房那么喜欢湖边？: raw detail length 127
+2022-07-17 10:48:38.589 [INFO] Sleep 2 second(s)
+2022-07-17 10:48:41.730 [INFO] Get question detail for 你能想到最弱的超能力是什么？: raw detail length 120
+2022-07-17 10:48:56.195 [INFO] Sleep 2 second(s)
+2022-07-17 10:49:00.491 [INFO] Get question detail for 假如你是名居住在世外的神明，你可以给自己写一段召唤词，你的信徒只有念这段词才可以召唤你，你会怎么写?: raw detail length 98
+2022-07-17 10:49:26.556 [INFO] Sleep 600 second(s)
+2022-07-17 10:59:26.563 [INFO] Begin crawling ...
+2022-07-17 10:59:39.585 [INFO] Get 50 items: 如何看待易烊千玺发文宣布放弃入职国家话剧,如何看待四川若尔盖缉枪治爆，群众上缴枪支,如何看待运动员苏炳添称「 对不起大家但我,工商银行表示 8 月 15 日起暂停账户,为什么会有「去外地旅游，尽量别联系以前的,第 63 届国际数学奥赛中国队满分摘金，,建筑工回家路上倒下因热射病去世，家属称未,2021 年出生人口下降 140 万，专,成年人能打过扬子鳄吗?,手动挡汽车为什么没有了？,美国被曝又宣布 1.08 亿美元对台军售,放弃吉大，兰大，海大，农大等 985 选,为什么祁同伟觉得高育良政治手段高明却从不,如何看待李想回应理想 L9 铸铁下摆「装,小布丁大布丁等雪糕蛋白质等项目抽检不合格,张亮麻辣烫回应「闽南香肉」标注含狗肉，称,2022 KPL 夏季赛 GK 3:0 ,灭绝师太将掌门之位传给周芷若而不是丁敏君,有什么本地人不怎么吃，外地人却以为是「当,2022 男篮亚洲杯小组赛中国男篮 95,提到避暑，你脑海中出现的第一个地方是哪里,如何解读罗兰贝格发布的《中国跨境航空货运,如果给你一个回到过去的机会，你会怎么做？,因为家庭条件，读与不读我该如何选择？,《阅微草堂笔记》中有哪些细思恐极的细节？,写小说在不了解格斗术的情况下该怎么描写？,我感觉我的学业跟不上了，我想放弃又不想放,现在家里父母常常因为钱吵得不可开交，而且,去了重高，一定得拼一把去好的班级吗？,大一新生带两个行李箱会很奇怪吗？,中国是世界上最重视女足的国家，也是女足起,如何看待小米 12S ultra 好评率,英国宣布进入国家紧急状态并首次发布极端高,我是一名程序员，深夜加班吃了外派公司的零,运 -12 拥有 14 个国家的适航证，,如何看待国内首个抗新冠口服药阿兹夫定片提,通胀爆表，加息预期炸了，但为何美股没有大,两个实打实干活的同事离职了，老板连谈都没,农村的葬礼有必要搞的那么复杂吗？,2022 世界田径锦标赛男子 100 米,如何看待北京时间 7 月 17 日 UF,完全跟不上全英文授课的节奏怎么办？,你有过身高被碾压的经历吗?,南昌室外核酸采样员不再穿防护服，改穿一次,7 月 16 日上海新增本土确诊 2 例,准大一新生，到底是住寝室好，还是不住寝室,为什么《英雄联盟》现在新出的英雄都很少叫,你能想到最弱的超能力是什么？,为什么成都人买房那么喜欢湖边？,假如你是名居住在世外的神明，你可以给自己
+2022-07-17 10:59:39.596 [INFO] Sleep 2 second(s)
+2022-07-17 10:59:42.222 [INFO] Get question detail for 如何看待易烊千玺发文宣布放弃入职国家话剧院？此次事件对其演艺事业造成哪些影响？: raw detail length 1393
+2022-07-17 10:59:54.375 [INFO] Sleep 2 second(s)
+2022-07-17 10:59:57.133 [INFO] Get question detail for 如何看待四川若尔盖缉枪治爆，群众上缴枪支 198 支，手榴弹 10 枚？私藏枪支可能会受到什么处罚？: raw detail length 2780
+2022-07-17 11:00:09.405 [INFO] Sleep 2 second(s)
+2022-07-17 11:00:12.043 [INFO] Get question detail for 如何看待运动员苏炳添称「 对不起大家但我会继续努力 」？运动员比赛表现不理想需要道歉吗？: raw detail length 1158
+2022-07-17 11:00:24.150 [INFO] Sleep 2 second(s)
+2022-07-17 11:00:26.849 [INFO] Get question detail for 工商银行表示 8 月 15 日起暂停账户黄金、账户白银业务开仓交易，出现这种情况的原因有哪些？: raw detail length 667
+2022-07-17 11:00:40.787 [INFO] Sleep 2 second(s)
+2022-07-17 11:00:43.454 [INFO] Get question detail for 为什么会有「去外地旅游，尽量别联系以前的老同学、老朋友」的说法？: raw detail length 0
+2022-07-17 11:00:55.622 [INFO] Sleep 2 second(s)
+2022-07-17 11:00:58.230 [INFO] Get question detail for 第 63 届国际数学奥赛中国队满分摘金，系 28 年来首次，如何评价这支队伍的实力？: raw detail length 498
+2022-07-17 11:01:10.333 [INFO] Sleep 2 second(s)
+2022-07-17 11:01:12.896 [INFO] Get question detail for 建筑工回家路上倒下因热射病去世，家属称未签合同无法认定工伤，这种情况如何维权？: raw detail length 538
+2022-07-17 11:01:25.028 [INFO] Sleep 2 second(s)
+2022-07-17 11:01:27.678 [INFO] Get question detail for 2021 年出生人口下降 140 万，专家称「三孩政策」效果还需要一定时间，如何看待这一说法？: raw detail length 1798
+2022-07-17 11:01:40.085 [INFO] Sleep 2 second(s)
+2022-07-17 11:01:42.975 [INFO] Get question detail for 成年人能打过扬子鳄吗?: raw detail length 67
+2022-07-17 11:01:57.047 [INFO] Sleep 2 second(s)
+2022-07-17 11:01:59.764 [INFO] Get question detail for 手动挡汽车为什么没有了？: raw detail length 70
+2022-07-17 11:02:11.881 [INFO] Sleep 2 second(s)
+2022-07-17 11:02:14.859 [INFO] Get question detail for 美国被曝又宣布 1.08 亿美元对台军售，也是今年第 4 次军售案，如何解读美国此举？: raw detail length 2235
+2022-07-17 11:02:27.091 [INFO] Sleep 2 second(s)
+2022-07-17 11:02:29.687 [INFO] Get question detail for 放弃吉大，兰大，海大，农大等 985 选择北京科技大学，值吗？: raw detail length 211
+2022-07-17 11:02:43.669 [INFO] Sleep 2 second(s)
+2022-07-17 11:02:46.628 [INFO] Get question detail for 为什么祁同伟觉得高育良政治手段高明却从不听高育良的？: raw detail length 0
+2022-07-17 11:02:55.544 [INFO] Sleep 2 second(s)
+2022-07-17 11:02:58.258 [INFO] Get question detail for 如何看待李想回应理想 L9 铸铁下摆「装」铝合金，称「强度和重量比铸造铝更好」？具体情况如何？: raw detail length 1244
+2022-07-17 11:03:10.405 [INFO] Sleep 2 second(s)
+2022-07-17 11:03:12.949 [INFO] Get question detail for 小布丁大布丁等雪糕蛋白质等项目抽检不合格，会对身体带来哪些影响？: raw detail length 576
+2022-07-17 11:03:25.135 [INFO] Sleep 2 second(s)
+2022-07-17 11:03:27.795 [INFO] Get question detail for 张亮麻辣烫回应「闽南香肉」标注含狗肉，称肯定不会有狗肉成分，真实情况如何？「闽南香肉」是什么肉？: raw detail length 485
+2022-07-17 11:03:39.958 [INFO] Sleep 2 second(s)
+2022-07-17 11:03:42.809 [INFO] Get question detail for 2022 KPL 夏季赛 GK 3:0 重庆狼队，如何评价这场比赛？: raw detail length 0
+2022-07-17 11:03:54.943 [INFO] Sleep 2 second(s)
+2022-07-17 11:03:57.907 [INFO] Get question detail for 灭绝师太将掌门之位传给周芷若而不是丁敏君的原因是什么？: raw detail length 0
+2022-07-17 11:04:10.318 [INFO] Sleep 2 second(s)
+2022-07-17 11:04:13.404 [INFO] Get question detail for 有什么本地人不怎么吃，外地人却以为是「当地特产」的美食？: raw detail length 0
+2022-07-17 11:04:25.650 [INFO] Sleep 2 second(s)
+2022-07-17 11:04:28.493 [INFO] Get question detail for 2022 男篮亚洲杯小组赛中国男篮 95:80 击败中国台北，如何评价本场比赛？: raw detail length 198
+2022-07-17 11:04:40.717 [INFO] Sleep 2 second(s)
+2022-07-17 11:04:43.624 [INFO] Get question detail for 提到避暑，你脑海中出现的第一个地方是哪里？为什么？: raw detail length 0
+2022-07-17 11:04:56.240 [INFO] Sleep 2 second(s)
+2022-07-17 11:04:59.135 [INFO] Get question detail for 如何解读罗兰贝格发布的《中国跨境航空货运白皮书》？未来航空货运会有怎样的发展前景及趋势？: raw detail length 356
+2022-07-17 11:05:11.466 [INFO] Sleep 2 second(s)
+2022-07-17 11:05:14.525 [INFO] Get question detail for 如果给你一个回到过去的机会，你会怎么做？: raw detail length 0
+2022-07-17 11:05:27.005 [INFO] Sleep 2 second(s)
+2022-07-17 11:05:30.150 [INFO] Get question detail for 因为家庭条件，读与不读我该如何选择？: raw detail length 308
+2022-07-17 11:05:42.457 [INFO] Sleep 2 second(s)
+2022-07-17 11:05:45.526 [INFO] Get question detail for 《阅微草堂笔记》中有哪些细思恐极的细节？: raw detail length 0
+2022-07-17 11:05:58.463 [INFO] Sleep 2 second(s)
+2022-07-17 11:06:01.372 [INFO] Get question detail for 写小说在不了解格斗术的情况下该怎么描写？: raw detail length 49
+2022-07-17 11:06:13.569 [INFO] Sleep 2 second(s)
+2022-07-17 11:06:16.803 [INFO] Get question detail for 我感觉我的学业跟不上了，我想放弃又不想放弃，我该怎么办，我还有希望吗？: raw detail length 0
+2022-07-17 11:06:29.256 [INFO] Sleep 2 second(s)
+2022-07-17 11:06:31.808 [INFO] Get question detail for 现在家里父母常常因为钱吵得不可开交，而且我还没考上高中，这个情况我还有必要继续读到大专吗?: raw detail length 0
+2022-07-17 11:06:43.985 [INFO] Sleep 2 second(s)
+2022-07-17 11:06:46.756 [INFO] Get question detail for 去了重高，一定得拼一把去好的班级吗？: raw detail length 62
+2022-07-17 11:06:58.874 [INFO] Sleep 2 second(s)
+2022-07-17 11:07:01.476 [INFO] Get question detail for 大一新生带两个行李箱会很奇怪吗？: raw detail length 83
+2022-07-17 11:07:13.582 [INFO] Sleep 2 second(s)
+2022-07-17 11:07:16.366 [INFO] Get question detail for 中国是世界上最重视女足的国家，也是女足起步最早的国家之一，为什么中国女足成绩很一般？: raw detail length 64
+2022-07-17 11:07:28.547 [INFO] Sleep 2 second(s)
+2022-07-17 11:07:31.169 [INFO] Get question detail for 如何看待小米 12S ultra 好评率达 98%？: raw detail length 0
+2022-07-17 11:07:43.289 [INFO] Sleep 2 second(s)
+2022-07-17 11:07:45.880 [INFO] Get question detail for 英国宣布进入国家紧急状态并首次发布极端高温红色预警，全球都受到高温影响了吗？: raw detail length 115
+2022-07-17 11:07:58.037 [INFO] Sleep 2 second(s)
+2022-07-17 11:08:00.797 [INFO] Get question detail for 我是一名程序员，深夜加班吃了外派公司的零食，就被甲方公司员工质问，我到底该不该反驳？: raw detail length 0
+2022-07-17 11:08:12.888 [INFO] Sleep 2 second(s)
+2022-07-17 11:08:15.730 [INFO] Get question detail for 运 -12 拥有 14 个国家的适航证，曾经飞去过南极，还环球一周，你喜欢这架飞机吗？: raw detail length 128
+2022-07-17 11:08:27.842 [INFO] Sleep 2 second(s)
+2022-07-17 11:08:30.715 [INFO] Get question detail for 如何看待国内首个抗新冠口服药阿兹夫定片提交上市申请？这款药物的真实效果如何？: raw detail length 2084
+2022-07-17 11:08:43.008 [INFO] Sleep 2 second(s)
+2022-07-17 11:08:45.923 [INFO] Get question detail for 通胀爆表，加息预期炸了，但为何美股没有大跌？: raw detail length 422
+2022-07-17 11:08:58.342 [INFO] Sleep 2 second(s)
+2022-07-17 11:09:00.951 [INFO] Get question detail for 两个实打实干活的同事离职了，老板连谈都没谈，一句挽留都没有，你怎么看？: raw detail length 0
+2022-07-17 11:09:13.071 [INFO] Sleep 2 second(s)
+2022-07-17 11:09:15.836 [INFO] Get question detail for 农村的葬礼有必要搞的那么复杂吗？: raw detail length 91
+2022-07-17 11:09:28.050 [INFO] Sleep 2 second(s)
+2022-07-17 11:09:30.854 [INFO] Get question detail for 2022 世界田径锦标赛男子 100 米半决赛苏炳添跑出 10 秒 30 无缘决赛，如何评价他的表现？: raw detail length 698
+2022-07-17 11:09:43.000 [INFO] Sleep 2 second(s)
+2022-07-17 11:09:45.749 [INFO] Get question detail for 如何看待北京时间 7 月 17 日 UFC 格斗之夜李景亮第二回合 TKO 「散打沙皇」穆斯里穆？: raw detail length 440
+2022-07-17 11:09:57.867 [INFO] Sleep 2 second(s)
+2022-07-17 11:10:00.470 [INFO] Get question detail for 完全跟不上全英文授课的节奏怎么办？: raw detail length 161
+2022-07-17 11:10:12.594 [INFO] Sleep 2 second(s)
+2022-07-17 11:10:15.218 [INFO] Get question detail for 你有过身高被碾压的经历吗?: raw detail length 37
+2022-07-17 11:10:27.441 [INFO] Sleep 2 second(s)
+2022-07-17 11:10:30.300 [INFO] Get question detail for 南昌室外核酸采样员不再穿防护服，改穿一次性隔离衣，如何看待这一措施？高温天气该如何保障采样人员的健康？: raw detail length 644
+2022-07-17 11:10:42.479 [INFO] Sleep 2 second(s)
+2022-07-17 11:10:45.219 [INFO] Get question detail for 7 月 16 日上海新增本土确诊 2 例、本土无症状 24 例，目前当地疫情情况如何？: raw detail length 1804
+2022-07-17 11:10:59.177 [INFO] Sleep 2 second(s)
+2022-07-17 11:11:01.772 [INFO] Get question detail for 准大一新生，到底是住寝室好，还是不住寝室好?: raw detail length 64
+2022-07-17 11:11:10.936 [INFO] Sleep 2 second(s)
+2022-07-17 11:11:13.499 [INFO] Get question detail for 为什么《英雄联盟》现在新出的英雄都很少叫外号了？: raw detail length 0
+2022-07-17 11:11:22.729 [INFO] Sleep 2 second(s)
+2022-07-17 11:11:25.496 [INFO] Get question detail for 你能想到最弱的超能力是什么？: raw detail length 120
+2022-07-17 11:11:34.620 [INFO] Sleep 2 second(s)
+2022-07-17 11:11:37.539 [INFO] Get question detail for 为什么成都人买房那么喜欢湖边？: raw detail length 127
+2022-07-17 11:11:46.487 [INFO] Sleep 2 second(s)
+2022-07-17 11:11:49.119 [INFO] Get question detail for 假如你是名居住在世外的神明，你可以给自己写一段召唤词，你的信徒只有念这段词才可以召唤你，你会怎么写?: raw detail length 98
+2022-07-17 11:12:10.130 [INFO] Sleep 600 second(s)
+2022-07-17 11:22:10.143 [INFO] Begin crawling ...
+2022-07-17 11:22:23.330 [INFO] Get 50 items: 如何看待易烊千玺发文宣布放弃入职国家话剧,如何看待四川若尔盖缉枪治爆，群众上缴枪支,工商银行表示 8 月 15 日起暂停账户,为什么会有「去外地旅游，尽量别联系以前的,建筑工回家路上倒下因热射病去世，家属称未,手动挡汽车为什么没有了？,美国被曝又宣布 1.08 亿美元对台军售,如何看待运动员苏炳添称「 对不起大家但我,放弃吉大，兰大，海大，农大等 985 选,如何看待李想回应理想 L9 铸铁下摆「装,2021 年出生人口下降 140 万，专,成年人能打过扬子鳄吗?,2022 世界田径锦标赛男子 100 米,为什么祁同伟觉得高育良政治手段高明却从不,张亮麻辣烫回应「闽南香肉」标注含狗肉，称,有什么本地人不怎么吃，外地人却以为是「当,灭绝师太将掌门之位传给周芷若而不是丁敏君,《喜剧之王》中当周星驰说完「我养你啊」之,如何看待国内首个抗新冠口服药阿兹夫定片提,2022 男篮亚洲杯小组赛中国男篮 95,如何解读罗兰贝格发布的《中国跨境航空货运,如果给你一个回到过去的机会，你会怎么做？,《阅微草堂笔记》中有哪些细思恐极的细节？,因为家庭条件，读与不读我该如何选择？,运 -12 拥有 14 个国家的适航证，,写小说在不了解格斗术的情况下该怎么描写？,我感觉我的学业跟不上了，我想放弃又不想放,去了重高，一定得拼一把去好的班级吗？,大一新生带两个行李箱会很奇怪吗？,第 63 届国际数学奥赛中国队满分摘金，,提到避暑，你脑海中出现的第一个地方是哪里,2022 KPL 夏季赛 GK 3:0 ,中国是世界上最重视女足的国家，也是女足起,通胀爆表，加息预期炸了，但为何美股没有大,英国宣布进入国家紧急状态并首次发布极端高,完全跟不上全英文授课的节奏怎么办？,你有过身高被碾压的经历吗?,南昌室外核酸采样员不再穿防护服，改穿一次,准大一新生，到底是住寝室好，还是不住寝室,创造历史！王嘉男夺得田径世锦赛男子跳远金,如何看待北京时间 7 月 17 日 UF,每天练习写作，应该写什么来练习？,2022 LPL 夏季赛 TES 让一追,有哪些可以高效休息的方法？,7 月 16 日上海新增本土确诊 2 例,科目一怎样才能一把过？,一个高三学生用尽全力是什么样子？,可以分享一下你喜欢的台词吗？,年初买的新车快要首保了，想了解一下后续汽,如何看待知名画师羽蛇因发布《原神》未公开
+2022-07-17 11:22:23.330 [INFO] Sleep 2 second(s)
+2022-07-17 11:22:26.117 [INFO] Get question detail for 如何看待易烊千玺发文宣布放弃入职国家话剧院？此次事件对其演艺事业造成哪些影响？: raw detail length 1393
+2022-07-17 11:22:38.230 [INFO] Sleep 2 second(s)
+2022-07-17 11:22:40.967 [INFO] Get question detail for 如何看待四川若尔盖缉枪治爆，群众上缴枪支 198 支，手榴弹 10 枚？私藏枪支可能会受到什么处罚？: raw detail length 2780
+2022-07-17 11:22:53.092 [INFO] Sleep 2 second(s)
+2022-07-17 11:22:55.971 [INFO] Get question detail for 工商银行表示 8 月 15 日起暂停账户黄金、账户白银业务开仓交易，出现这种情况的原因有哪些？: raw detail length 667
+2022-07-17 11:23:08.168 [INFO] Sleep 2 second(s)
+2022-07-17 11:23:11.038 [INFO] Get question detail for 为什么会有「去外地旅游，尽量别联系以前的老同学、老朋友」的说法？: raw detail length 0
+2022-07-17 11:23:23.211 [INFO] Sleep 2 second(s)
+2022-07-17 11:23:26.255 [INFO] Get question detail for 建筑工回家路上倒下因热射病去世，家属称未签合同无法认定工伤，这种情况如何维权？: raw detail length 538
+2022-07-17 11:23:38.688 [INFO] Sleep 2 second(s)
+2022-07-17 11:23:41.544 [INFO] Get question detail for 手动挡汽车为什么没有了？: raw detail length 70
+2022-07-17 11:23:50.454 [INFO] Sleep 2 second(s)
+2022-07-17 11:23:53.138 [INFO] Get question detail for 美国被曝又宣布 1.08 亿美元对台军售，也是今年第 4 次军售案，如何解读美国此举？: raw detail length 2235
+2022-07-17 11:24:02.347 [INFO] Sleep 2 second(s)
+2022-07-17 11:24:04.996 [INFO] Get question detail for 如何看待运动员苏炳添称「 对不起大家但我会继续努力 」？运动员比赛表现不理想需要道歉吗？: raw detail length 1158
+2022-07-17 11:24:14.124 [INFO] Sleep 2 second(s)
+2022-07-17 11:24:16.707 [INFO] Get question detail for 放弃吉大，兰大，海大，农大等 985 选择北京科技大学，值吗？: raw detail length 211
+2022-07-17 11:24:25.947 [INFO] Sleep 2 second(s)
+2022-07-17 11:24:28.760 [INFO] Get question detail for 如何看待李想回应理想 L9 铸铁下摆「装」铝合金，称「强度和重量比铸造铝更好」？具体情况如何？: raw detail length 1244
+2022-07-17 11:24:37.801 [INFO] Sleep 2 second(s)
+2022-07-17 11:24:40.476 [INFO] Get question detail for 2021 年出生人口下降 140 万，专家称「三孩政策」效果还需要一定时间，如何看待这一说法？: raw detail length 1798
+2022-07-17 11:24:49.562 [INFO] Sleep 2 second(s)
+2022-07-17 11:24:52.501 [INFO] Get question detail for 成年人能打过扬子鳄吗?: raw detail length 67
+2022-07-17 11:25:04.900 [INFO] Sleep 2 second(s)
+2022-07-17 11:25:07.571 [INFO] Get question detail for 2022 世界田径锦标赛男子 100 米半决赛苏炳添跑出 10 秒 30 无缘决赛，如何评价他的表现？: raw detail length 698
+2022-07-17 11:25:19.688 [INFO] Sleep 2 second(s)
+2022-07-17 11:25:22.496 [INFO] Get question detail for 为什么祁同伟觉得高育良政治手段高明却从不听高育良的？: raw detail length 0
+2022-07-17 11:25:34.687 [INFO] Sleep 2 second(s)
+2022-07-17 11:25:37.454 [INFO] Get question detail for 张亮麻辣烫回应「闽南香肉」标注含狗肉，称肯定不会有狗肉成分，真实情况如何？「闽南香肉」是什么肉？: raw detail length 485
+2022-07-17 11:25:49.652 [INFO] Sleep 2 second(s)
+2022-07-17 11:25:52.195 [INFO] Get question detail for 有什么本地人不怎么吃，外地人却以为是「当地特产」的美食？: raw detail length 0
+2022-07-17 11:26:06.133 [INFO] Sleep 2 second(s)
+2022-07-17 11:26:08.814 [INFO] Get question detail for 灭绝师太将掌门之位传给周芷若而不是丁敏君的原因是什么？: raw detail length 0
+2022-07-17 11:26:17.911 [INFO] Sleep 2 second(s)
+2022-07-17 11:26:20.918 [INFO] Get question detail for 《喜剧之王》中当周星驰说完「我养你啊」之后，柳飘飘在计程车上为什么会哭？: raw detail length 11
+2022-07-17 11:26:29.893 [INFO] Sleep 2 second(s)
+2022-07-17 11:26:32.685 [INFO] Get question detail for 如何看待国内首个抗新冠口服药阿兹夫定片提交上市申请？这款药物的真实效果如何？: raw detail length 2084
+2022-07-17 11:26:41.728 [INFO] Sleep 2 second(s)
+2022-07-17 11:26:44.392 [INFO] Get question detail for 2022 男篮亚洲杯小组赛中国男篮 95:80 击败中国台北，如何评价本场比赛？: raw detail length 198
+2022-07-17 11:26:53.431 [INFO] Sleep 2 second(s)
+2022-07-17 11:26:56.038 [INFO] Get question detail for 如何解读罗兰贝格发布的《中国跨境航空货运白皮书》？未来航空货运会有怎样的发展前景及趋势？: raw detail length 356
+2022-07-17 11:27:05.311 [INFO] Sleep 2 second(s)
+2022-07-17 11:27:07.823 [INFO] Get question detail for 如果给你一个回到过去的机会，你会怎么做？: raw detail length 0
+2022-07-17 11:27:17.024 [INFO] Sleep 2 second(s)
+2022-07-17 11:27:19.542 [INFO] Get question detail for 《阅微草堂笔记》中有哪些细思恐极的细节？: raw detail length 0
+2022-07-17 11:27:28.886 [INFO] Sleep 2 second(s)
+2022-07-17 11:27:32.003 [INFO] Get question detail for 因为家庭条件，读与不读我该如何选择？: raw detail length 308
+2022-07-17 11:27:40.980 [INFO] Sleep 2 second(s)
+2022-07-17 11:27:43.767 [INFO] Get question detail for 运 -12 拥有 14 个国家的适航证，曾经飞去过南极，还环球一周，你喜欢这架飞机吗？: raw detail length 128
+2022-07-17 11:27:52.746 [INFO] Sleep 2 second(s)
+2022-07-17 11:27:55.375 [INFO] Get question detail for 写小说在不了解格斗术的情况下该怎么描写？: raw detail length 49
+2022-07-17 11:28:04.628 [INFO] Sleep 2 second(s)
+2022-07-17 11:28:07.264 [INFO] Get question detail for 我感觉我的学业跟不上了，我想放弃又不想放弃，我该怎么办，我还有希望吗？: raw detail length 0
+2022-07-17 11:28:19.470 [INFO] Sleep 2 second(s)
+2022-07-17 11:28:21.945 [INFO] Get question detail for 去了重高，一定得拼一把去好的班级吗？: raw detail length 62
+2022-07-17 11:28:34.058 [INFO] Sleep 2 second(s)
+2022-07-17 11:28:36.603 [INFO] Get question detail for 大一新生带两个行李箱会很奇怪吗？: raw detail length 83
+2022-07-17 11:28:48.739 [INFO] Sleep 2 second(s)
+2022-07-17 11:28:51.491 [INFO] Get question detail for 第 63 届国际数学奥赛中国队满分摘金，系 28 年来首次，如何评价这支队伍的实力？: raw detail length 498
+2022-07-17 11:29:03.720 [INFO] Sleep 2 second(s)
+2022-07-17 11:29:06.496 [INFO] Get question detail for 提到避暑，你脑海中出现的第一个地方是哪里？为什么？: raw detail length 0
+2022-07-17 11:29:18.656 [INFO] Sleep 2 second(s)
+2022-07-17 11:29:21.451 [INFO] Get question detail for 2022 KPL 夏季赛 GK 3:0 重庆狼队，如何评价这场比赛？: raw detail length 0
+2022-07-17 11:29:33.594 [INFO] Sleep 2 second(s)
+2022-07-17 11:29:36.718 [INFO] Get question detail for 中国是世界上最重视女足的国家，也是女足起步最早的国家之一，为什么中国女足成绩很一般？: raw detail length 64
+2022-07-17 11:29:48.863 [INFO] Sleep 2 second(s)
+2022-07-17 11:29:51.543 [INFO] Get question detail for 通胀爆表，加息预期炸了，但为何美股没有大跌？: raw detail length 422
+2022-07-17 11:30:02.429 [INFO] Sleep 2 second(s)
+2022-07-17 11:30:05.077 [INFO] Get question detail for 英国宣布进入国家紧急状态并首次发布极端高温红色预警，全球都受到高温影响了吗？: raw detail length 115
+2022-07-17 11:30:17.185 [INFO] Sleep 2 second(s)
+2022-07-17 11:30:19.845 [INFO] Get question detail for 完全跟不上全英文授课的节奏怎么办？: raw detail length 161
+2022-07-17 13:22:21.765 [ERROR] Exception when adding entry (2013, 'Lost connection to MySQL server during query ([WinError 10053] 你的主机中的软件中止了一个已建立的连接。)')
+Traceback (most recent call last):
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\connections.py", line 732, in _read_bytes
+    data = self._rfile.read(num_bytes)
+  File "D:\miniconda3\envs\summer\lib\socket.py", line 669, in readinto
+    return self._sock.recv_into(b)
+ConnectionAbortedError: [WinError 10053] 你的主机中的软件中止了一个已建立的连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "zhihu.py", line 127, in watch
+    self.add_entry(crawl_id, idx, item, detail)
+  File "zhihu.py", line 213, in add_entry
+    self.query(
+  File "zhihu.py", line 55, in query
+    conn = pymysql.connect(
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\connections.py", line 353, in __init__
+    self.connect()
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\connections.py", line 632, in connect
+    self._get_server_information()
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\connections.py", line 1055, in _get_server_information
+    packet = self._read_packet()
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\connections.py", line 692, in _read_packet
+    packet_header = self._read_bytes(4)
+  File "D:\miniconda3\envs\summer\lib\site-packages\pymysql\connections.py", line 738, in _read_bytes
+    raise err.OperationalError(
+pymysql.err.OperationalError: (2013, 'Lost connection to MySQL server during query ([WinError 10053] 你的主机中的软件中止了一个已建立的连接。)')
+2022-07-17 13:22:21.877 [INFO] Sleep 2 second(s)
+2022-07-17 13:22:26.507 [INFO] Get question detail for 你有过身高被碾压的经历吗?: raw detail length 37
+2022-07-17 13:22:38.936 [INFO] Sleep 2 second(s)
+2022-07-17 13:22:42.042 [INFO] Get question detail for 南昌室外核酸采样员不再穿防护服，改穿一次性隔离衣，如何看待这一措施？高温天气该如何保障采样人员的健康？: raw detail length 644
+2022-07-17 13:22:54.378 [INFO] Sleep 2 second(s)
+2022-07-17 13:22:57.250 [INFO] Get question detail for 准大一新生，到底是住寝室好，还是不住寝室好?: raw detail length 64
+2022-07-17 13:23:11.323 [INFO] Sleep 2 second(s)
+2022-07-17 13:23:15.237 [INFO] Get question detail for 创造历史！王嘉男夺得田径世锦赛男子跳远金牌，如何评价王嘉男的表现？如何看待中国跳远首次世锦赛夺冠？: raw detail length 980
+2022-07-17 13:23:27.623 [INFO] Sleep 2 second(s)
+2022-07-17 13:23:30.507 [INFO] Get question detail for 如何看待北京时间 7 月 17 日 UFC 格斗之夜李景亮第二回合 TKO 「散打沙皇」穆斯里穆？: raw detail length 440
+2022-07-17 13:23:42.795 [INFO] Sleep 2 second(s)
+2022-07-17 13:23:46.269 [INFO] Get question detail for 每天练习写作，应该写什么来练习？: raw detail length 19
+2022-07-17 13:24:00.545 [INFO] Sleep 2 second(s)
+2022-07-17 13:24:03.847 [INFO] Get question detail for 2022 LPL 夏季赛 TES 让一追二击败 EDG，如何评价这场比赛？: raw detail length 0
+2022-07-17 13:24:16.102 [INFO] Sleep 2 second(s)
+2022-07-17 13:24:19.038 [INFO] Get question detail for 有哪些可以高效休息的方法？: raw detail length 147
+2022-07-17 13:24:31.480 [INFO] Sleep 2 second(s)
+2022-07-17 13:24:34.541 [INFO] Get question detail for 7 月 16 日上海新增本土确诊 2 例、本土无症状 24 例，目前当地疫情情况如何？: raw detail length 1804
+2022-07-17 13:24:46.901 [INFO] Sleep 2 second(s)
+2022-07-17 13:24:50.031 [INFO] Get question detail for 科目一怎样才能一把过？: raw detail length 34
+2022-07-17 13:25:03.357 [INFO] Sleep 2 second(s)
+2022-07-17 13:25:06.962 [INFO] Get question detail for 一个高三学生用尽全力是什么样子？: raw detail length 0
+2022-07-17 13:25:45.860 [INFO] Sleep 2 second(s)
+2022-07-17 13:25:55.455 [INFO] Get question detail for 可以分享一下你喜欢的台词吗？: raw detail length 0
+2022-07-17 13:26:10.848 [INFO] Sleep 2 second(s)
+2022-07-17 13:26:16.016 [INFO] Get question detail for 年初买的新车快要首保了，想了解一下后续汽车主要保养项目有哪些？保养周期是多久？: raw detail length 0
+2022-07-17 13:26:30.234 [INFO] Sleep 2 second(s)
+2022-07-17 13:26:34.247 [INFO] Get question detail for 如何看待知名画师羽蛇因发布《原神》未公开发表角色的二创后持续被网暴且被人身威胁？: raw detail length 510
+2022-07-17 13:26:59.728 [INFO] Sleep 600 second(s)
+2022-07-17 14:36:49.434 [INFO] Begin crawling ...
+2022-07-17 14:37:03.408 [INFO] Get 50 items: 易烊千玺宣布放弃入职国家话剧院，该事件对,工商银行下月 15 日起暂停账户黄金、账,美国被曝宣布 1.08 亿美元对台军售，,手动挡汽车为什么没有了？,7 月 16 日上海 KTV 疫情排查到,如何看待胡先煦发文表示报考国家话剧院完全,网红王澄澄炫富疑用警用飞机拍段子引争议，,王嘉男夺得田径世锦赛男子跳远金牌，如何看,张亮麻辣烫否认「闽南香肉」含狗肉成分，「,放弃吉大、兰大、海大、农大等 985 选,如何看待北京时间 7 月 17 日 UF,有什么本地人不怎么吃，外地人却以为是「当,灭绝师太将掌门之位传给周芷若而不是丁敏君,两个孕妇打架，算不算两个孩子开 EVA ,《喜剧之王》中当周星驰说完「我养你啊」之,2021 年出生人口下降 140 万，专,为什么中国动漫赶不上日本动漫，究竟差在哪,田径世锦赛男子 100 米半决赛苏炳添 ,如何看待《原神》金苹果假日任务对话中疑似,建筑工回家路上倒下因热射病去世，家属称未,防沉迷新规后第一个暑假，未成年只能玩 2,如何用 c 语言写一个扔色子的程序？,为什么那么多男观众都喜欢《鹿鼎记》里的双,中疾控专家董小平称「BA.5 亚分支传播,如何解读罗兰贝格发布的《中国跨境航空货运,如何看待李想回应理想 L9 铸铁下摆「装,2022 男篮亚洲杯小组赛中国男篮 95,林之孝夫妇为什么不给小红找个好差事?,考清华北大真的是要靠天赋么？,如何评价电视剧《梦华录》？,为什么会有「去外地旅游，尽量别联系以前的,在初中有必要维持一段不舒服的友谊吗?,如果自己资质平庸，但是自己不甘平凡，为自,游戏中无敌帧是刻意为之还是一种妥协？,为什么祁同伟觉得高育良政治手段高明却从不,运 -12 拥有 14 个国家的适航证，,学生党如何利用暑期美白？,如何看待国内首个抗新冠口服药阿兹夫定片提,《阅微草堂笔记》中有哪些细思恐极的细节？,去了重高，一定得拼一把去好的班级吗？,成年人能打过扬子鳄吗?,写小说在不了解格斗术的情况下该怎么描写？,通胀爆表，加息预期炸了，但为何美股没有大,四川若尔盖缉枪治爆，群众上缴枪支 198,7 月 16 日上海新增本土确诊 2 例,我感觉我的学业跟不上了，我想放弃又不想放,2022 KPL 夏季赛 WB 3:2 ,每天练习写作，应该写什么来练习？,准大一新生，到底是住寝室好，还是不住寝室,大一新生带两个行李箱会很奇怪吗？
+2022-07-17 14:37:03.410 [INFO] Sleep 2 second(s)
+2022-07-17 14:37:06.033 [INFO] Get question detail for 易烊千玺宣布放弃入职国家话剧院，该事件对其演艺事业造成哪些影响？: raw detail length 1393
+2022-07-17 14:37:18.213 [INFO] Sleep 2 second(s)
+2022-07-17 14:37:21.523 [INFO] Get question detail for 工商银行下月 15 日起暂停账户黄金、账户白银业务开仓交易，原因是什么？: raw detail length 667
+2022-07-17 14:37:34.066 [INFO] Sleep 2 second(s)
+2022-07-17 14:37:37.236 [INFO] Get question detail for 美国被曝宣布 1.08 亿美元对台军售，为今年第四次，如何解读美国此举？: raw detail length 2235
+2022-07-17 14:37:49.501 [INFO] Sleep 2 second(s)
+2022-07-17 14:37:52.426 [INFO] Get question detail for 手动挡汽车为什么没有了？: raw detail length 70
+2022-07-17 14:38:04.657 [INFO] Sleep 2 second(s)
+2022-07-17 14:38:07.735 [INFO] Get question detail for 7 月 16 日上海 KTV 疫情排查到密接 2.3 万人、次密接 5 万人，目前当地疫情防控如何？: raw detail length 783
+2022-07-17 14:38:20.223 [INFO] Sleep 2 second(s)
+2022-07-17 14:38:23.838 [INFO] Get question detail for 如何看待胡先煦发文表示报考国家话剧院完全遵守规定，三次面试一次不少？: raw detail length 2912
+2022-07-17 14:38:36.221 [INFO] Sleep 2 second(s)
+2022-07-17 14:38:39.180 [INFO] Get question detail for 网红王澄澄炫富疑用警用飞机拍段子引争议，目前其账号已注销，擅用警用飞机将面临哪些法律责任？: raw detail length 852
+2022-07-17 14:38:51.421 [INFO] Sleep 2 second(s)
+2022-07-17 14:38:54.382 [INFO] Get question detail for 王嘉男夺得田径世锦赛男子跳远金牌，如何看待中国跳远首次世锦赛夺冠？: raw detail length 980
+2022-07-17 14:39:06.523 [INFO] Sleep 2 second(s)
+2022-07-17 14:39:09.215 [INFO] Get question detail for 张亮麻辣烫否认「闽南香肉」含狗肉成分，「闽南香肉」是什么肉？: raw detail length 485
+2022-07-17 14:39:21.529 [INFO] Sleep 2 second(s)
+2022-07-17 14:39:24.385 [INFO] Get question detail for 放弃吉大、兰大、海大、农大等 985 选择北京科技大学，值吗？: raw detail length 211
+2022-07-17 14:39:36.832 [INFO] Sleep 2 second(s)
+2022-07-17 14:39:40.563 [INFO] Get question detail for 如何看待北京时间 7 月 17 日 UFC 格斗之夜李景亮第二回合 TKO 「散打沙皇」穆斯里穆？: raw detail length 440
+2022-07-17 14:39:54.799 [INFO] Sleep 2 second(s)
+2022-07-17 14:39:58.214 [INFO] Get question detail for 有什么本地人不怎么吃，外地人却以为是「当地特产」的美食？: raw detail length 0
+2022-07-17 14:40:07.676 [INFO] Sleep 2 second(s)
+2022-07-17 14:40:10.500 [INFO] Get question detail for 灭绝师太将掌门之位传给周芷若而不是丁敏君的原因是什么？: raw detail length 0
+2022-07-17 14:40:19.557 [INFO] Sleep 2 second(s)
+2022-07-17 14:40:22.335 [INFO] Get question detail for 两个孕妇打架，算不算两个孩子开 EVA 对战？: raw detail length 30
+2022-07-17 14:40:31.411 [INFO] Sleep 2 second(s)
+2022-07-17 14:40:34.536 [INFO] Get question detail for 《喜剧之王》中当周星驰说完「我养你啊」之后，柳飘飘在计程车上为什么会哭？: raw detail length 11
+2022-07-17 14:40:43.886 [INFO] Sleep 2 second(s)
+2022-07-17 14:40:46.721 [INFO] Get question detail for 2021 年出生人口下降 140 万，专家称「三孩政策」效果还需要一定时间，如何看待这一说法？: raw detail length 1798
+2022-07-17 14:40:55.804 [INFO] Sleep 2 second(s)
+2022-07-17 14:40:59.359 [INFO] Get question detail for 为什么中国动漫赶不上日本动漫，究竟差在哪里？: raw detail length 0
+2022-07-17 14:41:08.376 [INFO] Sleep 2 second(s)
+2022-07-17 14:41:11.142 [INFO] Get question detail for 田径世锦赛男子 100 米半决赛苏炳添 10 秒 30 无缘决赛，如何评价其表现？: raw detail length 1678
+2022-07-17 14:41:20.251 [INFO] Sleep 2 second(s)
+2022-07-17 14:41:23.847 [INFO] Get question detail for 如何看待《原神》金苹果假日任务对话中疑似出现成语误用的现象?: raw detail length 1025
+2022-07-17 14:41:32.930 [INFO] Sleep 2 second(s)
+2022-07-17 14:41:36.642 [INFO] Get question detail for 建筑工回家路上倒下因热射病去世，家属称未签合同无法认定工伤，这种情况如何维权？: raw detail length 538
+2022-07-17 14:41:48.781 [INFO] Sleep 2 second(s)
+2022-07-17 14:41:51.833 [INFO] Get question detail for 防沉迷新规后第一个暑假，未成年只能玩 21 个小时游戏，你认为暑假应该限制未成年人玩游戏吗？: raw detail length 498
+2022-07-17 14:42:03.991 [INFO] Sleep 2 second(s)
+2022-07-17 14:42:07.438 [INFO] Get question detail for 如何用 c 语言写一个扔色子的程序？: raw detail length 22
+2022-07-17 14:42:19.679 [INFO] Sleep 2 second(s)
+2022-07-17 14:42:22.922 [INFO] Get question detail for 为什么那么多男观众都喜欢《鹿鼎记》里的双儿？: raw detail length 15
+2022-07-17 14:42:35.161 [INFO] Sleep 2 second(s)
+2022-07-17 14:42:38.132 [INFO] Get question detail for 中疾控专家董小平称「BA.5 亚分支传播力明显提高，但致病力无明显变化」，如何评价这一观点？: raw detail length 1403
+2022-07-17 14:42:50.318 [INFO] Sleep 2 second(s)
+2022-07-17 14:42:52.991 [INFO] Get question detail for 如何解读罗兰贝格发布的《中国跨境航空货运白皮书》？未来航空货运会有怎样的发展前景及趋势？: raw detail length 356
+2022-07-17 14:43:05.292 [INFO] Sleep 2 second(s)
+2022-07-17 14:43:08.265 [INFO] Get question detail for 如何看待李想回应理想 L9 铸铁下摆「装」铝合金，称「强度和重量比铸造铝更好」？具体情况如何？: raw detail length 1244
+2022-07-17 14:43:20.499 [INFO] Sleep 2 second(s)
+2022-07-17 14:43:23.340 [INFO] Get question detail for 2022 男篮亚洲杯小组赛中国男篮 95:80 击败中国台北，如何评价本场比赛？: raw detail length 198
+2022-07-17 14:43:35.661 [INFO] Sleep 2 second(s)
+2022-07-17 14:43:38.433 [INFO] Get question detail for 林之孝夫妇为什么不给小红找个好差事?: raw detail length 69
+2022-07-17 14:43:50.694 [INFO] Sleep 2 second(s)
+2022-07-17 14:43:54.092 [INFO] Get question detail for 考清华北大真的是要靠天赋么？: raw detail length 480
+2022-07-17 14:44:06.557 [INFO] Sleep 2 second(s)
+2022-07-17 14:44:09.788 [INFO] Get question detail for 如何评价电视剧《梦华录》？: raw detail length 0
+2022-07-17 14:44:22.213 [INFO] Sleep 2 second(s)
+2022-07-17 14:44:24.892 [INFO] Get question detail for 为什么会有「去外地旅游，尽量别联系以前的老同学、老朋友」的说法？: raw detail length 0
+2022-07-17 14:44:37.211 [INFO] Sleep 2 second(s)
+2022-07-17 14:44:39.748 [INFO] Get question detail for 在初中有必要维持一段不舒服的友谊吗?: raw detail length 21
+2022-07-17 14:44:52.059 [INFO] Sleep 2 second(s)
+2022-07-17 14:44:54.897 [INFO] Get question detail for 如果自己资质平庸，但是自己不甘平凡，为自己的平凡而感到痛苦怎么办？: raw detail length 0
+2022-07-17 14:45:07.078 [INFO] Sleep 2 second(s)
+2022-07-17 14:45:09.958 [INFO] Get question detail for 游戏中无敌帧是刻意为之还是一种妥协？: raw detail length 338
+2022-07-17 14:45:22.451 [INFO] Sleep 2 second(s)
+2022-07-17 14:45:25.480 [INFO] Get question detail for 为什么祁同伟觉得高育良政治手段高明却从不听高育良的？: raw detail length 0
+2022-07-17 14:45:38.030 [INFO] Sleep 2 second(s)
+2022-07-17 14:45:41.073 [INFO] Get question detail for 运 -12 拥有 14 个国家的适航证，曾经飞去过南极，还环球一周，你喜欢这架飞机吗？: raw detail length 128
+2022-07-17 14:45:53.273 [INFO] Sleep 2 second(s)
+2022-07-17 14:45:56.338 [INFO] Get question detail for 学生党如何利用暑期美白？: raw detail length 21
+2022-07-17 14:46:08.828 [INFO] Sleep 2 second(s)
+2022-07-17 14:46:11.672 [INFO] Get question detail for 如何看待国内首个抗新冠口服药阿兹夫定片提交上市申请？这款药物的真实效果如何？: raw detail length 2084
+2022-07-17 14:46:23.862 [INFO] Sleep 2 second(s)
+2022-07-17 14:46:26.664 [INFO] Get question detail for 《阅微草堂笔记》中有哪些细思恐极的细节？: raw detail length 0
+2022-07-17 14:46:40.980 [INFO] Sleep 2 second(s)
+2022-07-17 14:46:44.278 [INFO] Get question detail for 去了重高，一定得拼一把去好的班级吗？: raw detail length 62
+2022-07-17 14:46:56.477 [INFO] Sleep 2 second(s)
+2022-07-17 14:46:59.268 [INFO] Get question detail for 成年人能打过扬子鳄吗?: raw detail length 67
+2022-07-17 14:47:11.674 [INFO] Sleep 2 second(s)
+2022-07-17 14:47:14.940 [INFO] Get question detail for 写小说在不了解格斗术的情况下该怎么描写？: raw detail length 49
+2022-07-17 14:47:27.154 [INFO] Sleep 2 second(s)
+2022-07-17 14:47:29.744 [INFO] Get question detail for 通胀爆表，加息预期炸了，但为何美股没有大跌？: raw detail length 422
+2022-07-17 14:47:41.892 [INFO] Sleep 2 second(s)
+2022-07-17 14:47:44.936 [INFO] Get question detail for 四川若尔盖缉枪治爆，群众上缴枪支 198 支，手榴弹 10 枚，私藏枪支可能会受到什么处罚？: raw detail length 2780
+2022-07-17 14:47:59.184 [INFO] Sleep 2 second(s)
+2022-07-17 14:48:02.185 [INFO] Get question detail for 7 月 16 日上海新增本土确诊 2 例、本土无症状 24 例，目前当地疫情情况如何？: raw detail length 1804
+2022-07-17 14:48:16.242 [INFO] Sleep 2 second(s)
+2022-07-17 14:48:19.004 [INFO] Get question detail for 我感觉我的学业跟不上了，我想放弃又不想放弃，我该怎么办，我还有希望吗？: raw detail length 0
+2022-07-17 14:48:31.346 [INFO] Sleep 2 second(s)
+2022-07-17 14:48:34.755 [INFO] Get question detail for 2022 KPL 夏季赛 WB 3:2 成都 AG，如何评价这场比赛？: raw detail length 0
+2022-07-17 14:48:47.080 [INFO] Sleep 2 second(s)
+2022-07-17 14:48:50.441 [INFO] Get question detail for 每天练习写作，应该写什么来练习？: raw detail length 19
+2022-07-17 14:49:02.695 [INFO] Sleep 2 second(s)
+2022-07-17 14:49:06.395 [INFO] Get question detail for 准大一新生，到底是住寝室好，还是不住寝室好?: raw detail length 64
+2022-07-17 14:49:18.733 [INFO] Sleep 2 second(s)
+2022-07-17 14:49:21.901 [INFO] Get question detail for 大一新生带两个行李箱会很奇怪吗？: raw detail length 83
+2022-07-17 14:49:46.273 [INFO] Sleep 600 second(s)
